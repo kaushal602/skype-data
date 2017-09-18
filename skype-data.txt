@@ -1,0 +1,2246 @@
+Sarah Pearce
+[3:18:18 PM] umesh maliya: Carl Violeta
+[3:19:45 PM] umesh maliya: Darren Goldspink
+[3:24:11 PM] umesh maliya: aa be jana mathi ek jode link nathi ane bija jode aboutni link chhe
+[3:34:58 PM] umesh maliya: Q7@vJRQvgGm1^DCx3P5v*1cI
+[6:42:23 PM] kaushal patel: Buyers Choice Bray Park QLD
+[7:21:19 PM] kaushal patel: contact_no
+[7:21:24 PM] kaushal patel: location
+[8:10:56 PM] umesh maliya: pela somvare pelu location vadu ane biju ane popupma ni linko proper chhene e joy leje
+ Tuesday 13 December 2016
+[10:33:28 AM] kaushal patel: Q7@vJRQvgGm1^DCx3P5v*1cI
+[11:19:00 AM] kaushal patel: http://dev.buyerschoice.com.au/wp-content/uploads/2016/09/Richard-Bell.jpg
+[11:19:12 AM] kaushal patel: richard.bell@buyerschoice.com.au
+[11:22:49 AM]  kaushal patel sent file buyers_sample(2).xlsx.
+[12:00:16 PM] umesh maliya: $P$BSUODjCfewCsrS3SecYX.KRJBn7ZF00
+[2:51:57 PM]  umesh maliya sent file bookimg.png.
+[2:53:14 PM]  umesh maliya sent file 080116_112225test1.pdf.
+[2:53:41 PM] umesh maliya: PLAN HomeBuyersGuide Westate Finance
+[6:52:51 PM] umesh maliya: $P$BhOtgxzI334pcEhyuAFc2LnI/WwwQ5.
+[7:01:45 PM] kaushal patel: define('FS_METHOD', 'direct');
+ Wednesday 14 December 2016
+[4:34:10 PM] kaushal patel: $args = array(
+                    'posts_per_page'   => -1,
+                    'offset'           => '',
+                    'category'         => '',
+                    'category_name'    => '',
+                    'orderby'          => 'date',
+                    'order'            => 'DESC',
+                    'post_type'        => 'gallerys',
+                    'post_parent'      => '0',
+                    'post_status'      => 'publish',
+                    'suppress_filters' => true,
+                    
+                );
+			  $results = get_posts( $args );
+[5:55:06 PM] kaushal patel: http://192.168.1.2/wordpress/colormark/blog/
+[7:08:32 PM] umesh maliya: kettner
+[7:09:11 PM] kaushal patel: Ftp
+host: 103.53.42.51
+username: igex@olivesolutionsdemo.com
+password: IgexSol12@@
+cpanel
+http://www.hostgator.in/
+User Name info@olivesolutions.com
+Password: Olive234demo
+ Thursday 15 December 2016
+[2:42:51 PM] kaushal patel: shreehari
+password:Shree1234
+[2:42:59 PM] kaushal patel: 50.6.34.240
+[5:03:48 PM] umesh maliya: $admin_email1 = 'ticket@shreehari.in';
+$admin_email = 'ashok@shreehari.in';
+ Friday 16 December 2016
+[12:19:56 PM] kaushal patel: <?php preg_match_all('/([\d]+)/',esc_attr( get_option('phone') ), $match); $match1=''; foreach($match[0] as $val){ $match1 = $match1.$val; } echo $match1; ?>
+[12:52:42 PM] umesh maliya: bhura mane pelu menu get karva mateno code pass karne
+[12:53:26 PM] kaushal patel: Message removed.
+[12:54:36 PM] kaushal patel: Message removed.
+[5:26:35 PM] kaushal patel: $url = wp_get_attachment_url( get_post_thumbnail_id($postid),'thumbnail' );
+[7:16:57 PM] kaushal patel: http://stackoverflow.com/questions/9381926/angularjs-insert-html-into-view
+[7:21:47 PM] kaushal patel: http://stackoverflow.com/questions/21829275/angular-js-shows-html-within-the-tag
+ Saturday 17 December 2016
+[11:04:10 AM] kaushal patel: $scope.renderHtml = function(html_code)
+		{
+		    return $sce.trustAsHtml(html_code);
+		};
+[11:04:27 AM] kaushal patel: <p ng-bind-html="renderHtml(item.name1)"></p>
+[11:05:22 AM] umesh maliya: special offer and inner pages baki chhe
+[11:38:57 AM] kaushal patel: Message removed.
+[6:21:46 PM] kaushal patel: Message removed.
+[6:24:03 PM] kaushal patel: http://192.168.1.2/wordpress/colormark/contact-us/
+[6:25:35 PM] kaushal patel: http://olivesolutionsdemo.com/colormark/contact-us/
+ Monday 19 December 2016
+[12:59:53 PM] kaushal patel: <?php wp_get_archives( array('type'=>'monthly','format'=>'html', 'how_post_count'=>false,'order'=>'DESC','post_type'=> 'blogs')); ?>
+ Tuesday 20 December 2016
+[5:32:57 PM] umesh maliya: /*
+* Template Name: Foggy Memories
+* Template Post Type: post
+[6:17:13 PM] umesh maliya: #taxonomy-practice_area_taxonomy .hide-if-no-js.taxonomy-add-new {
+    display: none;
+}
+[6:40:19 PM] umesh maliya: $term_id1 = 0;
+  $taxonomy_name = 'practice_area_taxonomy';
+  $termchildren = get_term_children( $term_id1, $taxonomy_name );
+  foreach ( $termchildren as $child ) {
+    $term = get_term_by( 'id', $child, $taxonomy_name );
+    echo '<li><a href="' . get_term_link( $child, $taxonomy_name ) . '">' . $term->name . '</a></li>';
+
+}
+[7:54:19 PM] kaushal patel: wp_get_attachment_url(get_post_meta( $row->ID,'detail_image',true ))
+[8:28:39 PM] kaushal patel: http://olivesolutionsdemo.com/kettner/
+ Wednesday 21 December 2016
+[12:31:13 PM] umesh maliya: #col-right {
+    float: right;
+    width: 50%;
+}
+[12:31:31 PM] umesh maliya: #col-left {
+    float: left;
+    width: 50%;
+}
+[12:35:14 PM] umesh maliya: $_GET['taxonomy'] != 'practice_area_taxonomy'
+[6:02:17 PM] kaushal patel: get_permalink(94)
+[6:14:00 PM] kaushal patel: olivesolutionsdemo.com/kettner/
+[7:31:11 PM] kaushal patel: number=10
+ Thursday 22 December 2016
+[12:07:48 PM] umesh maliya: <?php echo wp_get_attachment_url(get_option('practice_area_taxonomy_'.$row->term_id.'_category_image')); ?>
+[12:40:52 PM] kaushal patel: Message removed.
+[7:54:08 PM] umesh maliya: window.location = "http://www.example.com";
+ Friday 23 December 2016
+[10:28:54 AM] umesh maliya: rdlnk
+[11:43:58 AM] umesh maliya: <?php echo $_POST['rdlnk']; ?>
+[11:44:57 AM] kaushal patel: <?php echo site_url(); ?>/landingpage/personalinjury/
+[11:45:15 AM] umesh maliya: <input type="hidden" name="rdlnk" value="<?php echo site_url(); ?>">
+[11:52:42 AM] umesh maliya: <?php echo get_permalink(94); ?>
+[12:37:03 PM] umesh maliya: onkeypress='return event.charCode >= 48 && event.charCode <= 57'
+[1:18:19 PM] umesh maliya: return (event.charCode >= 48 && event.charCode <= 57) || (event.charCode == 43)  || (event.charCode == 8)
+[2:36:06 PM] kaushal patel: http://192.168.0.2/wordpress/kettner/landingpage/personalinjury/
+[4:51:45 PM] kaushal patel: test1@olivesolutionsdemo.com
+ Monday 26 December 2016
+[7:04:06 PM] umesh maliya: function numbersOnly(event) {
+	    var key = (event.hasOwnProperty('charCode')) ? event.charCode : event.which;
+	    return ((key >= 48 && key <= 57) || key == 8 || key == 43 || key == 0) ? true : false;
+	}
+ Wednesday 28 December 2016
+[12:45:50 PM] kaushal patel: http://olivesolutionsdemo.com/UCD/
+ Thursday 29 December 2016
+[4:23:44 PM]  umesh maliya sent file pg-scripts.js.
+[4:23:54 PM]  umesh maliya sent file dataloader.php.
+ Friday 30 December 2016
+[11:48:59 AM] kaushal patel: http://192.168.1.2/wordpress/eCaptcha/
+[4:49:54 PM] umesh maliya: <div class="rateit rateit3">
+</div>
+[7:25:07 PM] umesh maliya: SELECT distinct ToUserId FROM `message` left join `user_master` on `message`.`ToUserId` = `user_master`.`UserId` WHERE `FromUserId` = 2
+union ALL
+SELECT distinct FromUserId FROM `message` join `user_master` on `message`.`FromUserId` = `user_master`.`UserId` WHERE 
+ `ToUserId` = 2
+[7:26:55 PM] umesh maliya: SELECT distinct message.ToUserId FROM `message` left join `user_master` on `message`.`ToUserId` = `user_master`.`UserId` WHERE `message`.`FromUserId` = 2
+union ALL
+SELECT distinct message.FromUserId FROM `message` left join `user_master` on `message`.`FromUserId` = `user_master`.`UserId` WHERE `message`.`ToUserId` = 2
+ Saturday 31 December 2016
+[11:33:04 AM] umesh maliya: wp_get_attachment_url(get_post_meta($the_id,'asdfhjk',true));
+ Monday 02 January 2017
+[10:24:42 AM] umesh maliya: http://192.168.1.2/html/medsell2/login
+[3:58:30 PM] umesh maliya: https://www.script-tutorials.com/demos/6/index.html
+[6:50:02 PM] kaushal patel: http://olivesolutionsdemo.com/7SM/
+ Wednesday 04 January 2017
+[11:37:25 AM] umesh maliya: loginconfirm
+ani nichhe avu j copy karine 
+loginuser
+aa mukmide
+[11:37:35 AM] umesh maliya: web.php
+[11:40:57 AM] kaushal patel: loginuser
+[2:46:45 PM] umesh maliya: editproduct
+[2:47:07 PM] kaushal patel: hi
+[6:21:59 PM] kaushal patel: http://192.168.1.2/html/medsell2/admin/Advettisement
+[7:06:08 PM] umesh maliya: document.getElementById("chkPassport").checked
+[7:09:25 PM] umesh maliya: $('#isAgeSelected').attr('checked')
+ Thursday 05 January 2017
+[10:34:53 AM] kaushal patel: Message removed.
+[2:20:36 PM] kaushal patel: kaushal@igexsolutions.com
+[3:02:58 PM] umesh maliya: MAIL_ENCRYPTION=tls
+[3:10:52 PM] umesh maliya: MAIL_ENCRYPTION=null
+[3:16:42 PM] umesh maliya: mail.embedinfosoft.com
+587
+[4:39:23 PM] kaushal patel: Message removed.
+[6:21:30 PM] umesh maliya: Quantity
+[7:10:12 PM] kaushal patel: Equipment
+ Friday 06 January 2017
+[12:17:49 PM] umesh maliya: Message removed by you.
+[6:27:13 PM] kaushal patel: http://192.168.1.2/html/medsell2/product/Imaging-Equipment/Bone-Densitometers/5
+[6:38:10 PM] umesh maliya: https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+ Saturday 07 January 2017
+[10:55:23 AM] umesh maliya: https://itsfoss.com/share-folders-local-network-ubuntu-windows/
+[12:18:05 PM] kaushal patel: CREATE TABLE `contact_master` (
+  `ID` int(11) NOT NULL,
+  `UserId` int(11) NOT NULL,
+  `ProductId` int(11) NOT NULL,
+  `CreatedDate` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `ModifiedDate` datetime NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+ Monday 09 January 2017
+[10:42:10 AM] kaushal patel: hi
+ Wednesday 11 January 2017
+[12:37:39 PM] kaushal patel: function wpa_show_permalinks( $post_link, $post ){
+    if ( is_object( $post ) && $post->post_type == 'sciencetechnology' ){
+        $terms = wp_get_object_terms( $post->ID, 'science-tech' );
+        if( $terms ){
+            return str_replace( '%science-tech%' , $terms[0]->slug , $post_link );
+        }
+    }
+    return $post_link;
+}
+add_filter( 'post_type_link', 'wpa_show_permalinks', 1, 2 );
+[1:04:13 PM] umesh maliya: RedirectMatch 301 ^/kettner/practice-areas/ http://www.xyz.com/newname/
+[2:47:06 PM] kaushal patel: /%category%/%child-category%/%postname%/.
+[3:19:55 PM] kaushal patel: admin/productlist
+[4:38:10 PM] kaushal patel: $url = get_term_link( $row );
+[5:09:44 PM] kaushal patel: ProductId
+[5:22:14 PM] kaushal patel: 	FromUserId
+[5:22:48 PM] kaushal patel: FromUserId
+[5:31:28 PM] kaushal patel: rateit-selected
+[5:33:51 PM] kaushal patel: .userrate .rateit-selected
+[6:41:48 PM] umesh maliya: setuserrate
+[6:43:30 PM] kaushal patel: SetUserRate
+[6:46:57 PM] kaushal patel: Rate
+[6:49:58 PM] kaushal patel: ModifiedDate
+[6:50:17 PM] kaushal patel: 'ModifiedDate'=>date('Y-m-d H:i:s'),
+[6:59:35 PM] kaushal patel: RatingId
+[7:07:11 PM] umesh maliya: setproductrate
+[7:07:50 PM] kaushal patel: SetProductRate
+[7:09:28 PM] kaushal patel: product_rating
+ Thursday 12 January 2017
+[3:30:51 PM] umesh maliya: altemail
+[3:32:04 PM] umesh maliya: Position
+[3:32:34 PM] umesh maliya: CompanyName
+[3:32:52 PM] umesh maliya: BusinessType
+[3:33:06 PM] umesh maliya: BusinessDescription
+[3:33:24 PM] umesh maliya: BusinessWebsite
+[3:33:55 PM] umesh maliya: EmailNewsletter
+[3:34:03 PM] umesh maliya: EmailNewsletter
+[3:34:17 PM] umesh maliya: EmailUpdates
+[3:34:24 PM] umesh maliya: EmailInterestedBuyers
+[3:34:31 PM] umesh maliya: SMSInterestedBuyers
+[5:36:38 PM] umesh maliya: Pincode
+[5:36:42 PM] umesh maliya: Title
+[6:01:42 PM] umesh maliya: editbusinessdetail
+[6:10:31 PM] kaushal patel: if(document.getElementById("ShowPrice1").checked){
+		jQuery('#advertise-form').attr('onsubmit',true)
+		jQuery('#advertise-form').submit();
+	}
+[6:19:20 PM] umesh maliya: editaccountsettingdetail
+[6:31:17 PM] umesh maliya: (string)
+ Tuesday 17 January 2017
+[3:14:33 PM] umesh maliya: echo json_encode(array('status'=>0,'message'=>'Invalid password or Email..'));
+[3:17:50 PM] umesh maliya: <span id="errmsg" class="errmsg loginerrmsg"></span>
+[4:04:41 PM] kaushal patel: .chanpass .cont-info-box label span {
+    color: #d60000;
+    width: auto;
+}
+[4:40:03 PM] umesh maliya: wp_upload_dir(
+[5:00:44 PM] umesh maliya: function get_attachment_id_by_src ($image_src) {
+
+    global $wpdb;
+    $query = "SELECT ID FROM {$wpdb->posts} WHERE guid='$image_src'";
+    $id = $wpdb->get_var($query);
+    return $id;
+
+}
+[5:01:31 PM] umesh maliya: get_attachment_id_by_src ()
+[5:04:25 PM] umesh maliya: wp_delete_post()
+[5:05:32 PM] umesh maliya: wp_delete_attachment()
+[5:14:29 PM] umesh maliya: if (strpos($a, 'are') !== false) {
+    echo 'true';
+}
+[6:42:01 PM] umesh maliya: categories
+[6:42:09 PM] umesh maliya: web.php
+ Wednesday 18 January 2017
+[11:17:16 AM] umesh maliya: $P$BJRLBfQIZxedYrZY937yxzgN.v3Jm0/
+[11:17:29 AM] umesh maliya: akshar admin old password
+[11:19:50 AM] umesh maliya: https://www.youtube.com/embed/M2rKjyXjvBs
+live video link
+[11:30:31 AM] umesh maliya: https://www.youtube.com/embed/sDzvWJ9AELs
+inner page link
+[12:41:28 PM] kaushal patel: http://medsell.embedinfosoft.com/admin/Advettisement
+[3:32:07 PM] umesh maliya: laravel_medsell
+[3:40:13 PM] umesh maliya: $("#modal1").openModal({
+alert();
+});
+[4:22:29 PM] kaushal patel: session()->forget('productpage');
+ Thursday 19 January 2017
+[3:39:59 PM] kaushal patel: https://nimbus.everhelper.me/client/notes/share/730191/qcrd6px3kpf9n9vfssoa
+[3:49:05 PM] kaushal patel: http://colormarklabel.com/product/BeverageBeerLabels/
+ Friday 20 January 2017
+[12:34:05 PM] umesh maliya: Message removed by you.
+[12:37:50 PM] umesh maliya: Message removed by you.
+[12:39:40 PM] umesh maliya: Template Name: Full-width layout
+Template Post Type: post, page, event
+[1:22:34 PM] umesh maliya: .type-partner .view:nth-last-child(1) {
+    display: none;
+}
+[2:40:57 PM] umesh maliya: 24,146
+ Saturday 21 January 2017
+[11:00:10 AM] umesh maliya: http://2factor.in/API/V1/ccab7d26-d40b-11e6-afa5-00163ef91450/SMS/9913290598/546789
+ Tuesday 24 January 2017
+[1:14:45 PM] kaushal patel: http://192.168.1.2/wordpress/pinpoint-local/
+[3:22:36 PM] kaushal patel: <p ng-bind-html="renderHtml(item.name1)"></p>
+[7:18:12 PM] umesh maliya: Message removed by you.
+[7:18:42 PM] umesh maliya: Message removed by you.
+[7:20:11 PM] umesh maliya: Message removed by you.
+[7:20:33 PM] umesh maliya: Message removed by you.
+ Wednesday 25 January 2017
+[10:35:26 AM] umesh maliya: ucd ni link moaklto
+[5:06:51 PM] kaushal patel: http://192.168.1.2/wordpress/pinpoint-local/
+ Thursday 26 January 2017
+[7:24:22 PM] umesh maliya: <input type="text" name="textbo
+ Friday 27 January 2017
+[5:10:27 PM] kaushal patel: umesh@zamriverweb.com
+[5:10:35 PM] kaushal patel: ftp.zamriverweb.com
+[5:10:57 PM] kaushal patel: Zamriver@12
+ Monday 30 January 2017
+[11:08:16 AM] umesh maliya: public_html/UCD/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL    
+public_html/colormark/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL    
+public_html/kettner/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL    
+public_html/7SM/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL    
+public_html/speedfit/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL    
+public_html/bwd/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL    
+.trash/wp-includes/post.php SiteLock-PHP-FILEHACKER-og.UNOFFICIAL
+ Tuesday 31 January 2017
+[4:27:10 PM] kaushal patel: Message removed.
+[4:27:18 PM] kaushal patel: Message removed.
+ Wednesday 01 February 2017
+[10:42:39 AM] kaushal patel: http://www.zamriverweb.com/
+[10:43:17 AM] kaushal patel: http://192.168.1.2/employee/Vishal/HTML-SITE/zamriver/latest-work.html
+[2:32:15 PM] kaushal patel: http://www.zamriverweb.com/blog.html
+ Thursday 02 February 2017
+[11:37:04 AM] umesh maliya: <iframe src="http://www.ustream.tv/embed/22930034?html5ui" style="border: 0 none transparent;"  webkitallowfullscreen allowfullscreen frameborder="no" width="100%" height="550"></iframe>
+[11:37:15 AM] kaushal patel: <iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=YOURCHANNELNAME" width="480" height="400"></iframe>
+[11:37:31 AM] kaushal patel: https://www.youtube.com/channel/UCQVqeLPWHB_hC3SdJCu2KIQ
+[11:46:13 AM] kaushal patel: <iframe width="560" height="315" src="https://www.youtube.com/embed/2GxzrrpjguY" frameborder="0" allowfullscreen></iframe>
+[12:01:47 PM] kaushal patel: <iframe width="640" height="360" src="https://www.youtube.com/embed/yKyeYd6wboQ" frameborder="0" allowfullscreen></iframe>
+[12:03:04 PM] umesh maliya: http://aksharfilms.com/live-video/
+[3:33:15 PM] kaushal patel: dfsdf
+ Friday 03 February 2017
+[12:13:16 PM] kaushal patel: www.zamriverweb.com/
+[12:17:54 PM] umesh maliya:  data-index="6" href="#6"
+[2:19:03 PM] kaushal patel: Q7@vJRQvgGm1^DCx3P5v*1cI
+[4:00:52 PM] kaushal patel: 'SubCatSlug'=>preg_replace('~[^\pL\d]+~u', '-', $request->input('SubCatName')),
+[6:23:31 PM] kaushal patel: To <span>Experto</span> Digital
+[6:23:45 PM] kaushal patel: Your <span>Digital</span> Partner
+ Monday 06 February 2017
+[11:27:40 AM] umesh maliya: http://www.buyerschoice.com.au/wp-content/uploads/2017/01/Lime-Street-Finance.jpg
+[12:21:37 PM] kaushal patel: http://zamriverweb.com/zamriverweb
+ Tuesday 07 February 2017
+[11:02:47 AM] kaushal patel: http://olivesolutionsdemo.com/pinpoint-local/services/
+[4:10:45 PM] umesh maliya: http://192.168.1.2/employee/Dhaval/html/abm/
+ Wednesday 08 February 2017
+[11:11:20 AM] kaushal patel: http://olivesolutionsdemo.com/pinpoint-local/
+[11:18:23 AM] kaushal patel: http://greenforplanet.com/
+[11:55:13 AM] umesh maliya: https://goo.gl/D54cWv
+[12:06:03 PM] umesh maliya: https://www.google.com/chrome/
+[3:15:53 PM] umesh maliya: Manufacturer
+[6:03:18 PM] umesh maliya: $id = DB::table('manufacturer_master')
+    		->insertGetId(array(
+    			'ManufacturerName'=>preg_replace('#<script(.*?)>(.*?)</script>#is', '', $request->input('ManufacturerName')),
+    			'IsActive'=>1,
+    			'ModifiedDate' => date('Y-m-d H:i:s'),
+    		));
+        DB::table('manufacturer_mapping')
+            ->insert([
+                'SubCatId'=>$request->input('subvategory1'),
+                'ManufacturerId'=>$request->input('id'),
+            ]);
+[6:06:20 PM] umesh maliya: Message removed by you.
+[7:06:46 PM] kaushal patel: extgetsubcat
+[7:07:03 PM] kaushal patel: getsubcat
+ Thursday 09 February 2017
+[1:01:33 PM] kaushal patel: http://zamriverweb.com/zamriverweb/
+[1:07:53 PM] kaushal patel: jquery.onepage-scroll.js
+[1:22:34 PM] umesh maliya: li:nth-child(3) a
+[1:23:55 PM] umesh maliya: ul.onepage-pagination li:nth-child(2) a
+[2:16:58 PM] umesh maliya: trigger('click')
+[2:19:14 PM] umesh maliya: viewing-page-2
+[2:22:17 PM] umesh maliya: $(document).scrollTop($(document).scrollTop()+$(window).height());
+[5:44:32 PM] umesh maliya: http://192.168.1.2/employee/Vishal/HTML-SITE/ask-elephant/
+[7:21:16 PM] kaushal patel: <?php echo get_template_directory_uri();?>/
+ Friday 10 February 2017
+[3:01:41 PM] kaushal patel: show_admin_bar(false);
+[7:03:38 PM] kaushal patel: global $dynamic_featured_image;
+     		$featured_images1 = $dynamic_featured_image->get_featured_images($post->ID);
+[7:07:21 PM] kaushal patel: wp_get_attachment_url(get_post_meta( $row->ID,'_thumbnail_id',true )
+[7:14:20 PM] umesh maliya: http://192.168.1.2/employee/Vishal/HTML-SITE/ask-elephant/
+ Saturday 11 February 2017
+[11:53:45 AM] umesh maliya: cursor: default;
+[11:53:46 AM] umesh maliya: 1311
+[1:15:21 PM] umesh maliya: .select-box.select-boxtp > select {
+    left: 550px;
+}
+[2:19:52 PM] umesh maliya: Add Manufacturer
+[3:29:33 PM] umesh maliya: #cat1 > select {
+    outline: medium none;
+}
+[6:07:59 PM] umesh maliya: http://www.web-technology-experts-notes.in/2015/02/how-to-share-embed-youtube-video-on-facebook-from-my-website.html
+ Monday 13 February 2017
+[11:51:36 AM] umesh maliya: $P$BiWFqRhnhXXkO78K3sz29P.R6jJAOL1
+ Tuesday 14 February 2017
+[11:01:02 AM]  umesh maliya sent file olivel7n_wp_pinpoint-local(1).sql.
+[11:08:56 AM] umesh maliya: http://192.168.0.2/facebook-php-sdk-master/examples/example.php
+[11:27:23 AM] umesh maliya: 'appId'  => '436168423381226',
+  'secret' => 'd555c25d593d6d6bcdd61a3e22f54f7c',
+[12:17:45 PM]  umesh maliya sent file Elephant website material latest.docx.
+[2:25:11 PM] kaushal patel: while ( have_posts() ) : the_post();
+[2:25:18 PM] kaushal patel: endwhile;
+[7:23:16 PM] umesh maliya: https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/
+ Wednesday 15 February 2017
+[10:29:26 AM] kaushal patel: hii
+[12:58:07 PM] umesh maliya: https://www.areanetwork.com/my-social/
+[1:23:00 PM] umesh maliya: https://www.facebook.com/help/community/question/?id=136873873496398&added&rdrhc
+[3:36:29 PM] umesh maliya: qtrans_use($lang, $post->post_content,false);
+[3:36:48 PM] umesh maliya: $lang = $_REQUEST['lang'];
+[5:55:47 PM] kaushal patel: http://2factor.in/API/V1/ccab7d26-d40b-11e6-afa5-00163ef91450/ADDON_SERVICES/SEND/TSMS
+ From=MEDSEL
+TemplateName=Contact
+ To= Mobileno
+[6:04:35 PM] kaushal patel: /API/V1/{api_key}/SMS/{phone_number}/AUTOGEN/{template_name}
+[6:05:06 PM] kaushal patel: GET /API/V1/{api_key}/BAL/SMS
+[6:06:19 PM] kaushal patel: /API//V1/{api_key}/ADDON_SERVICES/SEND/TSMS
+[6:06:49 PM] kaushal patel: http://2factor.in/API/V1/ccab7d26-d40b-11e6-afa5-00163ef91450/SMS/9913290598/546789
+[6:34:18 PM] kaushal patel: http://askelephant.embedinfosoft.com/
+ Thursday 16 February 2017
+[11:34:24 AM] kaushal patel: http://2factor.in/API/V1/ccab7d26-d40b-11e6-afa5-00163ef91450/ADDON_SERVICES/SEND/TSMS
+[12:20:54 PM] umesh maliya: From=MEDSEL&TemplateName=Contact&To=9913290598&VAR1=Umesh&VAR2=Umesh Maliya&VAR3=9913290598&VAR4=umesh@igex.com
+[12:22:25 PM] umesh maliya: $ch = curl_init();
+curl_setopt($ch, CURLOPT_URL,"http://www.mysite.com/tester.phtml");
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_POSTFIELDS,"postvar1=value1&postvar2=value2&postvar3=value3");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$server_output = curl_exec ($ch);
+curl_close ($ch);
+if ($server_output == "OK") { ... } else { ... }
+[7:27:45 PM] umesh maliya: medselladmin
+Zenith0fSuccess
+[7:28:37 PM] umesh maliya: ftp.medsell.in
+ Friday 17 February 2017
+[10:34:14 AM] kaushal patel: http://www.pinpointlocal.com/services/
+[11:13:54 AM] kaushal patel: $_POST['agent_email']
+[11:50:40 AM] umesh maliya: embedinf_prop
+IgexSol@!12
+[2:25:23 PM] umesh maliya: DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=embedinf_propertysearch
+DB_USERNAME=embedinf_prop
+DB_PASSWORD=IgexSol@!12
+[3:49:57 PM] umesh maliya: elephant_images
+[5:06:44 PM] kaushal patel: <script src="https://cdnjs.cloudflare.com/ajax/libs/prettyPhoto/3.1.6/js/jquery.prettyPhoto.min.js"></script>
+[5:07:01 PM] kaushal patel: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prettyPhoto/3.1.6/css/prettyPhoto.min.css" />
+[5:09:08 PM] kaushal patel:  <script>
+            jQuery("[rel^='prettyPhoto']").prettyPhoto({
+                overlay_gallery: false, 
+                social_tools: '', 
+                'theme': 'light_square'
+            });
+        </script>
+ Monday 20 February 2017
+[11:23:01 AM] kaushal patel: prettyp
+[2:19:00 PM] kaushal patel: <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
+[2:20:11 PM] kaushal patel: Message removed.
+[2:20:46 PM] kaushal patel: Message removed.
+[2:21:48 PM] kaushal patel: Message removed.
+[2:42:46 PM] kaushal patel: zip file wordpress na folder ma 6
+[2:43:00 PM] umesh maliya: saru bolo biju?
+[3:53:17 PM] kaushal patel: http://speedfit.com/speedboard/SpeedboardLite.html
+[5:31:54 PM] kaushal patel: hi
+ Tuesday 21 February 2017
+[12:25:22 PM] kaushal patel: http://afra.com.au/
+https://cp158.ezyreg.com:2083/
+U: afaf4636
+P: x3$x@q6t
+[12:28:26 PM] kaushal patel: Username: afra-admin
+password : afra_admin@2017
+[1:13:24 PM] kaushal patel: http://www.afra.com.au/wp-content/uploads/2016/08/FUSO.jpg
+[5:03:29 PM] kaushal patel: $scope.renderHtml = function(html_code)
+            {
+                 return $sce.trustAsHtml(html_code);
+            };
+[5:03:37 PM] kaushal patel: $sce
+[5:03:53 PM] kaushal patel: $servicescontent = str_replace(array("\r","\n"), '', $row->post_content);
+[5:04:45 PM] kaushal patel: <p ng-bind-html="renderHtml(item.content)"></p>
+ Wednesday 22 February 2017
+[4:01:27 PM] umesh maliya: http://192.168.1.2/html/propertysearch2
+ Thursday 23 February 2017
+[12:58:38 PM] umesh maliya: $uploadedfile = $_FILES['file'];
+	$upload_overrides = array( 'test_form' => false );
+	$movefile = wp_handle_upload( $uploadedfile, $upload_overrides );
+[3:12:13 PM] kaushal patel: http://speedfit.com/
+[4:18:02 PM] kaushal patel: [16/2/2017 11:43:27 AM] Vishal Bhatt: For part listing: [Part Manufacturer] [Part/component name] for [Sub-Category]
+For equipment listing: [Manufacturer] [System Name] for [Sub-Category]
+
+<<< 
+[7:48:02 PM] kaushal patel: http://embedinfosoft.com/wash-line/
+ Saturday 25 February 2017
+[11:14:50 AM] umesh maliya: 103.211.216.141
+umesh@embedinfosoft.com
+IgexSol@vishal428
+[11:33:43 AM] umesh maliya: <p class="red">red</p>
+<p class="green">red</p>
+[12:05:03 PM] kaushal patel: $headers  = 'MIME-Version: 1.0' . "\r\n";
+	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+	$headers .= 'From: Pinpoint-Local <ak@pinpointlocal.com>' . "\r\n";
+[12:43:27 PM] kaushal patel: var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+[12:46:25 PM] kaushal patel: if(regex.test(altemail)) {
+[12:52:24 PM] umesh maliya: http://askelephant.embedinfosoft.com/contact-us/
+[12:52:35 PM] umesh maliya: ama required na star red karvana chhe
+[3:09:16 PM]  umesh maliya sent file area.xml.
+ Wednesday 01 March 2017
+[10:31:17 AM] kaushal patel: fatcow.com. 
+Username: nyclimo. 
+Password: Limo_2016
+[10:31:29 AM] kaushal patel: http://www.mylimonyc.com/OfficialNYCLimo
+Admin URL: http://www.mylimonyc.com/OfficialNYCLimo/wp-admin
+Username: mirnazbib@gmail.com
+Password: 921NGeC40fw
+[11:18:29 AM] umesh maliya: this..attr('class')
+[6:45:49 PM] umesh maliya: get_stylesheet_directory_uri()
+[7:27:21 PM] kaushal patel: require_once("../../../wp-load.php");
+[7:35:40 PM] kaushal patel: 192.168.1.2/wordpress/aframembers/
+[7:36:35 PM] kaushal patel: http://www.aframembers.com.au
+[7:43:56 PM] kaushal patel: Username: afra-admin
+ password :1993OtM2016
+[7:45:50 PM] kaushal patel: www.aframembers.com.au
+1 Username: afra-client
+ Password: QoURmU)rz#8PEy2zpQKf$KIW
+ Thursday 02 March 2017
+[11:39:26 AM] kaushal patel: Message removed.
+[2:15:32 PM] umesh maliya: Message removed by you.
+[5:03:09 PM] umesh maliya: removeAttr
+[5:39:54 PM] umesh maliya: $alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890';
+	    $pass = array(); //remember to declare $pass as an array
+	    $alphaLength = strlen($alphabet) - 1; //put the length -1 in cache
+	    for ($i = 0; $i < 8; $i++) {
+	        $n = rand(0, $alphaLength);
+	        $pass[] = $alphabet[$n];
+	    }
+	    $password = implode($pass);
+[7:11:44 PM] kaushal patel: $headers  = 'MIME-Version: 1.0' . "\r\n";
+			$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+			$headers .= 'From: igex <umeshmaliya@igexsolutions.com>' . "\r\n";
+			$msg = 'Username: '.$name1.' <br><br> 
+
+				Password: '.$userpass1.' <br><br>
+
+				To set your password, visit the following address:<br><br>
+
+				<a href="http://aframembers.igexsolutions.com/lostpassword/" > Reset Password </a>';
+
+			$messgge1 = 'New user added<br><br>
+
+						Username : '.$name1;
+[7:11:55 PM] kaushal patel: mail( $email12, 'Aframembers Register User', $msg, $headers);
+[7:37:16 PM] kaushal patel: global $wpdb;
+		    $wpdb->insert( 
+		        'wp_users', 
+		        array( 
+		        'user_login'   => $_POST['name1'],
+		        'user_pass' => md5($_POST['userpass']),
+		        'user_email' => $_POST['email1']
+		        )
+		    );
+ Friday 03 March 2017
+[11:51:10 AM] kaushal patel: 1993OtM2016
+[12:22:53 PM] kaushal patel: http://aframembers.igexsolutions.com/
+u: Kaushal
+pa: admin@123
+ Wednesday 08 March 2017
+[10:55:45 AM] umesh maliya: .country.preferred
+[10:58:19 AM] umesh maliya: data-dial-code
+[11:26:57 AM] umesh maliya: .country-list .country
+[11:31:59 AM] kaushal patel: http://www.jqueryscript.net/form/jQuery-International-Telephone-Input-With-Flags-Dial-Codes.html
+[11:36:41 AM] umesh maliya: $("#country").countrySelect("selectCountry", "gb");
+[11:39:14 AM] umesh maliya: selected-dial-code
+[11:44:37 AM] umesh maliya: data-country-code
+[11:48:43 AM] kaushal patel: 'CountryCode' => $request->input('con-cod1')
+[11:50:35 AM] kaushal patel: mcode1
+[12:01:03 PM] umesh maliya: $("#country").countrySelect("selectCountry", "gb");
+[12:01:24 PM] umesh maliya: $("#country").countrySelect("setCountry", "United States");
+[12:56:01 PM] kaushal patel: http://www.aframembers.com.au/login-2/
+[12:58:43 PM] umesh maliya: p.tml-rememberme-wrap {
+    float: left;
+}
+ Thursday 09 March 2017
+[3:14:54 PM] umesh maliya: (chai)
+[3:28:31 PM] umesh maliya: (like)
+ Friday 10 March 2017
+[10:24:51 AM] umesh maliya: (cheers)
+[5:53:45 PM] umesh maliya: http://192.168.1.2/html/medsell3/login
+ Wednesday 15 March 2017
+[5:08:44 PM] umesh maliya: wp_get_attachment_url(308)
+[7:00:07 PM] kaushal patel: [15/3/2017 6:41:51 PM] kaushal patel: Víctor Emilio Estrada 1312 y CostaneraGuayaquil
+
+<<< 
+[7:01:00 PM] umesh maliya: -2.1616216
+-79.91789289999997
+ Thursday 16 March 2017
+[11:26:56 AM] umesh maliya: 1ff766e125a3f189cccca6ccdea1c67a
+[12:53:07 PM] kaushal patel: http://www.aframembers.com.au/
+ Friday 17 March 2017
+[11:19:26 AM] kaushal patel: http://zamriverweb.com/es/
+[6:15:55 PM] kaushal patel: http://dev.integratedbulksystems.com.au
+ Monday 20 March 2017
+[12:04:13 PM] umesh maliya: Template Post Type: memory
+ Tuesday 21 March 2017
+[10:28:18 AM] umesh maliya: Message removed by you.
+[3:27:19 PM] kaushal patel: http://dev.integratedbulksystems.com.au/
+[3:32:15 PM] kaushal patel: integr00_dev
+[3:32:50 PM] kaushal patel: IgexSol12!
+[3:33:23 PM] kaushal patel: integr00_igex
+[3:34:32 PM] umesh maliya: chalu thay gayu have?
+[3:35:25 PM] kaushal patel: Username: hiodit
+Password: OtaeN9EetQ&(OltvW$Pi4x@9
+[3:57:40 PM] kaushal patel: FTP Username: igex@integratedbulksystems.com.au
+FTP server: ftp.integratedbulksystems.com.au
+FTP & explicit FTPS port:  21
+Pass : IgexSol12!
+ Wednesday 22 March 2017
+[10:51:24 AM] umesh maliya: header
+[4:21:32 PM] kaushal patel: http://192.168.1.2/wordpress/laborin-qa
+[4:22:01 PM] kaushal patel: http://voliveafrica.com/iproff/
+[6:22:13 PM] kaushal patel: $P$Byvll/wIWkRin3ywIJzTcOq8LtXLbB1
+ Friday 24 March 2017
+[10:24:04 AM] umesh maliya: (cheers)
+ Saturday 25 March 2017
+[12:11:25 PM] kaushal patel: http://askelephant.embedinfosoft.com/
+[6:58:32 PM] umesh maliya: (checkle)
+[7:10:36 PM] umesh maliya: memory_limit = 320M
+upload_max_filesize = 240M
+post_max_size = 320M
+ Sunday 26 March 2017
+[6:19:52 PM] umesh maliya: $('.datepicker').datepicker({
+    format: 'dd/mm/yyyy (D)',
+ Monday 27 March 2017
+[1:22:30 PM] umesh maliya: http://192.168.0.2/html/tyreapp/admin/dashboard
+[2:44:01 PM] kaushal patel: FTP Username: iproff@laborin-qa.com
+FTP server: ftp.laborin-qa.com
+FTP & explicit FTPS port:  21
+ Tuesday 28 March 2017
+[11:09:56 AM] umesh maliya:  ->withErrors(['CompanyName'=>'Company added Successfully.'])
+[12:33:09 PM] kaushal patel: http://laborin-qa.com/class-detailed/?classId=59
+[4:17:53 PM] umesh maliya: http://192.168.0.2/html/tyreapp/admin/vehiclecompanylist
+[5:24:54 PM] kaushal patel: imt_team_href-custom
+[5:26:43 PM] kaushal patel: #LsP#qN)v0CB
+[5:26:51 PM] kaushal patel: buyerschoice
+ Wednesday 29 March 2017
+[3:42:03 PM] kaushal patel: Message removed.
+[3:43:44 PM] umesh maliya: jQuery.ajax({
+    url: url1,
+    data: {name1:name1},
+    type: 'POST',
+    beforeSend: function () { },
+    complete: function () {},
+    success: function (data) {},
+    error: function () {}
+  });
+[3:47:58 PM] kaushal patel: <meta name="csrf-token" content="{{ csrf_token() }}" />
+[3:48:26 PM] kaushal patel: _token: CSRF_TOKEN
+[3:48:37 PM] kaushal patel: var CSRF_TOKEN = jQuery('meta[name="csrf-token"]').attr('content');
+[6:56:33 PM] kaushal patel: Message removed.
+[6:57:35 PM] kaushal patel: Route::get('/admin/addemployee', 'admin\EmployeeController@AddEmployee');
+ Thursday 30 March 2017
+[4:16:45 PM] umesh maliya: http://192.168.0.2/employee/Dhaval/html/themeforest-4021469-metronic-responsive-admin-dashboard-template/metronic_v4.7/theme/admin_4/form_controls.html
+[4:35:52 PM] kaushal patel: Route::get('addservice', 'ServiceController@AddService');
+[6:15:17 PM] umesh maliya: addservicedetail
+[6:22:08 PM] umesh maliya: <script>
+            var sucesstitle = '{{$errors->first('sucmsg')}}';
+            if(sucesstitle!=''){
+                toastr.success(sucesstitle);
+            }
+        </script>
+[6:34:09 PM] umesh maliya: http://192.168.0.2/employee/Dhaval/html/themeforest-4021469-metronic-responsive-admin-dashboard-template/metronic_v4.7/theme/admin_4/table_datatables_managed.html
+[7:03:31 PM] kaushal patel: Route::get('servicelist', 'ServiceController@ServiceList');
+ Friday 31 March 2017
+[11:24:13 AM] umesh maliya: setInterval(function(){ alert("Hello"); }, 3000);
+[11:35:14 AM] kaushal patel: http://shreehari.in/
+[12:04:00 PM] umesh maliya: env('DB_HOST')
+[12:23:42 PM] umesh maliya: Route::get('getemployeelist', 'EmployeeController@GetEmployeeList');
+[1:29:01 PM] kaushal patel: editservice
+[2:54:22 PM] umesh maliya: jQuery(document).ready(function() {
+                jQuery('#sample_2').DataTable( {
+                    "processing": true,
+                    "serverSide": true,
+                    "ajax": "{{('getemployeelist')}}",
+                    "fnRowCallback": function( nRow, aData, iDisplayIndex ) {
+                        jQuery('td:eq(6)', nRow).html('<a href="{{url('editemployee')}}/' + aData[0] + '">Edit</a> | <a href="{{url('deleteemployee')}}/' + aData[0] + '">Delete</a>');
+                        return nRow;
+                    },
+                    "columnDefs": [
+                    {
+                        "targets": [ 0 ],
+                        "visible": false,
+                    }]
+                } );
+            } );
+[2:56:01 PM] kaushal patel: <i class="icon-trash"></i>
+[2:56:26 PM] kaushal patel: <i class="fa fa-pencil" aria-hidden="true"></i>
+[2:58:55 PM] umesh maliya: return view('service/Data');
+[7:14:37 PM] umesh maliya: https://emranulhadi.wordpress.com/2014/06/05/join-and-extra-condition-support-at-datatables-library-ssp-class/
+ Monday 03 April 2017
+[11:02:45 AM] umesh maliya: add bill matenu menu add kartu
+[7:23:50 PM] umesh maliya: getvehiclemodel
+[7:28:44 PM] kaushal patel: public function GetModel(Request $request){
+    	$BillModel = new BillModel();
+    	$data = $BillModel->getcompanyid($request);
+        ?><option value="">Select Model</option><?php
+        foreach($data as $model){
+            ?><option value="<?php echo $model->VehicleModelId; ?>"><?php echo $model->ModelName; ?></option><?php
+        }
+    }
+[7:29:26 PM] kaushal patel: function getcompanyid($request){
+    	$companyId = $request->input('company_id');
+    	return DB::table('vehiclemodel_master')
+            ->select('*')
+            ->where('VehicleCompanyId' , '=' , $companyId)
+            ->get();
+    }
+ Thursday 06 April 2017
+[12:46:35 PM] umesh maliya: jQuery("#add_sub_bill tr").size()
+[12:51:55 PM] umesh maliya: http://192.168.0.2/codeigniter/autocare/index.php/bill_master/add_bill
+[1:04:55 PM] umesh maliya: #add_sub_bill tr td {
+    padding-right: 10px;
+}
+[1:05:14 PM] umesh maliya: .cntct_dtls #add_sub_bill tr {
+    margin: 2% auto;
+}
+[1:31:05 PM] umesh maliya: #billadd .form-control.form-control-inline.input-medium.date-picker {
+ Friday 07 April 2017
+[12:35:32 PM] kaushal patel: Title: shreehari logo.rar Description: shreehari logo.rar https://login.skype.com/login/sso?go=webclient.xmm&docid=0-neu-d5-8a99c6999020ee97ec702f0ca0406eb8
+[4:00:00 PM] umesh maliya: Discount
+ Saturday 08 April 2017
+[11:16:23 AM] umesh maliya: http://select2.github.io/select2/
+[2:28:56 PM] kaushal patel: Package
+[2:29:03 PM] kaushal patel: ExpiryDate
+[2:43:34 PM] umesh maliya: jQuery('#datepicker').datepicker({ dateFormat: 'dd-mm-yy' });
+[3:13:52 PM] kaushal patel: ParentId
+[5:54:57 PM] kaushal patel: employee_master
+[5:55:54 PM] kaushal patel: module_master
+[6:27:51 PM] kaushal patel: ModuleIcon
+[6:29:18 PM] umesh maliya: glyphicon glyphicon-user
+[6:45:59 PM] kaushal patel: Priority
+ Monday 10 April 2017
+[10:52:43 AM] kaushal patel: South Perth Australia
+[3:54:12 PM] kaushal patel: return view('dashboard/Dashboard');
+[3:54:15 PM] umesh maliya: Dashboard
+[6:09:07 PM] umesh maliya: javascript:void(0);
+[6:13:07 PM] umesh maliya: add to web
+[6:30:32 PM] kaushal patel: companyuser_master
+[7:11:47 PM] umesh maliya: UserPhoneNumber
+ Tuesday 11 April 2017
+[11:12:50 AM] umesh maliya: $encrypted = encrypt("to encrypt string", "chitgoks");
+$decrypted = decrypt($encrypted, "chitgoks");
+[11:26:31 AM] umesh maliya: AES-256-CBC
+[11:43:23 AM] umesh maliya: session()->get('userdata')['UserId']
+[2:25:19 PM] kaushal patel: usermodule_master
+[2:34:16 PM] umesh maliya: getmodule
+with post method
+[5:10:13 PM] umesh maliya: .mdck .mt-checkbox.mt-checkbox-outline {
+    margin-bottom: 0;
+}
+[6:23:04 PM] umesh maliya: .green {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+ Wednesday 12 April 2017
+[10:50:03 AM] kaushal patel: dennis.kerr@westfin.net.au
+[2:34:21 PM] umesh maliya: admin/companystatus
+[3:48:28 PM] umesh maliya: /admin/vehiclecompanystatus
+[3:53:24 PM] umesh maliya: /admin/vehiclemodelstatus
+[4:06:20 PM] umesh maliya: /admin/packagestatus
+[4:11:52 PM] umesh maliya: /admin/modulestatus
+[7:04:48 PM] umesh maliya: https://datatables.net/forums/discussion/27070/server-side-column-filtering-solution-using-select-input
+ Thursday 13 April 2017
+[11:22:57 AM] umesh maliya: Message removed by you.
+[11:28:03 AM] kaushal patel: admin/getcompanylist
+[11:33:54 AM] umesh maliya: Message removed by you.
+[3:52:46 PM] umesh maliya: <a class="btn btn-primary mr5" data-toggle="modal" data-target=".viewuser">Large Modal</a>
+[3:53:21 PM] umesh maliya: <a class="btn btn-primary mr5" data-toggle="modal" data-target=".viewcompany">Large Modal</a>
+[4:12:49 PM] umesh maliya: /admin/getuser/{id}
+ Friday 14 April 2017
+[10:38:48 AM] umesh maliya: 1ff766e125a3f189cccca6ccdea1c67a
+[11:08:05 AM] umesh maliya: $CompanyId = session()->get('userdata')['CompanyId'];
+AND CompanyId=$CompanyId
+[11:24:10 AM] kaushal patel: FinInvId
+[12:41:48 PM] umesh maliya: editbilldetail
+[12:42:28 PM] umesh maliya: EditBillDetail
+[4:29:40 PM] kaushal patel: Message removed.
+[6:09:31 PM] kaushal patel: Message removed.
+[6:13:43 PM] kaushal patel: Message removed.
+[6:16:34 PM] kaushal patel: Message removed.
+[6:21:13 PM] kaushal patel: Message removed.
+[6:38:22 PM] kaushal patel: Remark
+[6:41:31 PM] umesh maliya: jQuery('#Remark').val('Tyre end').trigger('change.select2');
+[7:07:00 PM] kaushal patel: VehicleCompanyId
+[7:07:23 PM] kaushal patel: VehicleModelId
+[7:13:05 PM] kaushal patel: vehiclemodel_master
+[7:14:27 PM] kaushal patel: <option value="">Select Vehicle</option>
+[7:26:45 PM] umesh maliya: VehicleCompanyName
+ModelName
+ Monday 17 April 2017
+[10:39:43 AM] umesh maliya: strtoupper
+[11:14:47 AM] kaushal patel: vehiclecompany_master
+[11:15:08 AM] kaushal patel: VehicleCompanyId
+[11:15:31 AM] kaushal patel: VehicleCompanyName
+[11:15:52 AM] kaushal patel: vehiclemodel_master
+[11:15:59 AM] kaushal patel: VehicleModelId
+[11:18:57 AM] umesh maliya: Message removed by you.
+[11:25:54 AM] umesh maliya: Message removed by you.
+[11:28:21 AM] umesh maliya: Message removed by you.
+[11:28:54 AM] umesh maliya: Message removed by you.
+[2:28:30 PM] umesh maliya: Message removed by you.
+[2:55:26 PM] umesh maliya: Zenith0fSuccess
+[2:55:33 PM] umesh maliya: medselladmin
+[2:57:08 PM] umesh maliya: Message removed by you.
+[3:06:46 PM] umesh maliya: .page-head {
+    display: none;
+}
+[3:06:59 PM] umesh maliya: Message removed by you.
+[4:00:49 PM] umesh maliya: .form-group {
+    float: left;
+    width: 100%;
+}
+[5:02:18 PM] kaushal patel: jQuery("#serv-name tr").size();
+[5:11:40 PM] umesh maliya: function addrow(trid1){
+	var totalrow = jQuery("#serv-name tr").size();
+	trid = jQuery("#serv-name tr:nth-child("+totalrow+")").attr('id');
+	if(trid1==trid){
+	
+	}
+}
+[5:50:03 PM] umesh maliya: #serv-name tr:nth-child(2)
+[6:04:34 PM] umesh maliya: #serv-name #row_3 .form-control.serid.select2me
+[6:36:50 PM] kaushal patel: $('.js-select').next('.select2').find('.select2-selection').one('focus', select2Focus).on('blur', function () {
+    $(this).one('focus', select2Focus)
+})
+
+function select2Focus() {
+    $(this).closest('.select2').prev('select').select2('open');
+}
+[7:01:57 PM] umesh maliya: Message removed by you.
+[7:07:06 PM] umesh maliya: Message removed by you.
+[7:10:01 PM] kaushal patel: jQuery("select").select2();
+[7:10:18 PM] umesh maliya: callselect2()
+ Tuesday 18 April 2017
+[10:40:09 AM] umesh maliya: .right {
+    float: right !important;
+    width: auto;
+}
+[10:44:49 AM] umesh maliya: http://itsolutionstuff.com/post/laravel-5-generate-pdf-from-html-view-file-and-download-using-dompdfexample.html
+[11:11:24 AM] umesh maliya: PDFController
+[11:11:30 AM] umesh maliya: GenerateBill
+[11:11:36 AM] umesh maliya: generatebill
+[1:01:56 PM] umesh maliya: IsGenerated
+[1:20:43 PM] umesh maliya: http://192.168.0.2/html/tyreapp/generatebill
+[3:19:33 PM] umesh maliya: https://wordpress.org/download/release-archive/
+[4:03:36 PM] kaushal patel: FinInvId
+ Wednesday 19 April 2017
+[6:19:47 PM] kaushal patel: img.onload = function () {
+[6:20:25 PM] kaushal patel: img = new Image();
+[6:26:58 PM] kaushal patel: img.src = _URL.createObjectURL(file);
+[6:29:01 PM] kaushal patel: var _URL = window.URL || window.webkitURL;
+ Thursday 20 April 2017
+[1:18:58 PM] umesh maliya: <div class="form-group">
+[1:20:03 PM] umesh maliya: form-control
+[6:11:11 PM] umesh maliya: url: "/data.php",
+                    type: "POST",
+                    data:  { 'abc':'ad' }
+ Friday 21 April 2017
+[10:55:56 AM] kaushal patel: date-picker
+[3:12:58 PM] kaushal patel: BillFor
+[3:13:28 PM] kaushal patel: Customer
+[3:13:39 PM] kaushal patel: Party
+[3:14:57 PM] kaushal patel: PartyID
+[3:15:12 PM] kaushal patel: CustomerName
+[5:26:33 PM] kaushal patel: if (aData[4] == "1234") {
+                            jQuery(nRow).addClass('class_edit');
+                        }
+[5:50:49 PM] kaushal patel: background-color: #fff;
+[6:49:02 PM] umesh maliya: columns: [ 0, 1, 2, 5 ]
+[7:03:47 PM] umesh maliya: http://192.168.0.2/wordpress/ask-elephant/wp-admin/
+[7:20:31 PM] kaushal patel: MenuStatus
+ Saturday 22 April 2017
+[10:45:17 AM] kaushal patel: GetMenuStatus
+[10:45:33 AM] kaushal patel: getmenustatus
+[12:08:49 PM] kaushal patel: logstatus_master
+LogId
+CompanyId
+PreStatus
+PostStatus
+[12:49:31 PM] umesh maliya: getloglist
+[12:49:42 PM] umesh maliya: post
+[1:21:39 PM] kaushal patel: 'formatter'=>function($d){return date('d-m-Y', strtotime($d)); }
+[2:32:05 PM] kaushal patel: "columnDefs": [
+                {
+                    "targets": [ 0 ],
+                    "visible": false,
+                }]
+[3:34:45 PM] kaushal patel: FinInvId
+[3:34:53 PM] kaushal patel: FinYear
+[4:37:21 PM] umesh maliya: [ [0,'asc'], [1,'asc'] ]
+[5:01:35 PM] umesh maliya: 01-01-1970
+[5:10:57 PM] kaushal patel: <meta name="csrf-token" content="{{ csrf_token() }}" />
+[6:32:42 PM] umesh maliya: autoclose: true,
+       todayHighlight: true,
+       Format: 'dd/mm/yyyy'
+[7:13:28 PM] kaushal patel: jQuery('#Remark').val('Tyre end').trigger('change.select2');
+ Monday 24 April 2017
+[12:19:10 PM] kaushal patel: Message removed.
+[12:42:46 PM] kaushal patel: "footerCallback": function ( row, data, start, end, display ) {
+[2:30:32 PM] umesh maliya: jQuery('#sample_2').DataTable().destroy();
+[2:39:12 PM] kaushal patel: iDisplayLength
+ Tuesday 25 April 2017
+[10:47:30 AM] kaushal patel: companywisereport
+[11:31:18 AM] umesh maliya: columnDefs: [
+    { orderable: false, targets: [ -1 ] }
+  ]
+[11:34:12 AM] umesh maliya:  extend: 'collection',
+[11:35:51 AM] umesh maliya: http://www.gyrocode.com/articles/jquery-datatables-how-to-add-a-checkbox-column/
+[11:40:16 AM] umesh maliya: orientation: 'landscape',
+                pageSize: 'LEGAL'
+            }
+[11:52:58 AM] umesh maliya: getcompanyreport
+[1:26:28 PM] umesh maliya: .dataTables_filter {
+    display: none;
+}
+[2:47:40 PM] kaushal patel: "aaSorting": [ [1,'desc'] ],
+[4:07:05 PM] umesh maliya: <style>
+            #sample_2_wrapper .row .col-md-6.col-sm-6, .dataTables_filter {
+                display: none;
+            }
+        </style>
+[4:11:14 PM] kaushal patel: GetAllCompany()
+[4:29:56 PM] kaushal patel: session()->get('userdata')['CompanyId'];
+[7:02:20 PM] umesh maliya: Message removed by you.
+ Wednesday 26 April 2017
+[10:36:26 AM] umesh maliya: SELECT 
+service_master.ServiceName,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-01-01 00:00:00' AND bill_master.CreatedDate < '2017-01-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS JAN,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-02-01 00:00:00' AND bill_master.CreatedDate < '2017-02-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS FEB,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-03-01 00:00:00' AND bill_master.CreatedDate < '2017-03-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS MAR,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-04-01 00:00:00' AND bill_master.CreatedDate < '2017-04-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS APR,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-05-01 00:00:00' AND bill_master.CreatedDate < '2017-05-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS MAY,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-06-01 00:00:00' AND bill_master.CreatedDate < '2017-06-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS JUN,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-07-01 00:00:00' AND bill_master.CreatedDate < '2017-07-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS JUL,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-08-01 00:00:00' AND bill_master.CreatedDate < '2017-08-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS AUG,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-09-01 00:00:00' AND bill_master.CreatedDate < '2017-09-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS SEP,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-10-01 00:00:00' AND bill_master.CreatedDate < '2017-10-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS OCT,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-11-01 00:00:00' AND bill_master.CreatedDate < '2017-11-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS NOV,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-12-01 00:00:00' AND bill_master.CreatedDate < '2017-12-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS `DEC`,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-01-01 00:00:00' AND bill_master.CreatedDate < '2017-12-31 23:59:59') THEN bill_details.Qty ELSE 0 END) AS `TotalServices`,
+SUM(CASE WHEN (bill_master.CreatedDate > '2017-01-01 00:00:00' AND bill_master.CreatedDate < '2017-12-31 23:59:59') THEN bill_details.SubTotal ELSE 0 END) AS `TotalAmount`
+FROM `bill_master` LEFT JOIN bill_details on bill_details.BillId = bill_master.BillId LEFT JOIN service_master ON service_master.ServiceID=bill_details.ServiceId WHERE bill_master.CompanyId=2 GROUP by service_master.ServiceID
+[10:49:12 AM] umesh maliya: getservicewiseyearlyreport
+[10:51:46 AM] kaushal patel: GetServiceWiseYearlyReport
+[1:28:09 PM] umesh maliya: mktime(0, 0, 0, $monthNum, 10)
+[2:24:52 PM] umesh maliya: $_GET['year'];
+[2:25:07 PM] umesh maliya: Message removed by you.
+[2:26:05 PM] umesh maliya: Message removed by you.
+[2:26:16 PM] umesh maliya: Message removed by you.
+[2:29:50 PM] umesh maliya: Message removed by you.
+[2:42:32 PM] umesh maliya: getmodelwisevehiclereport
+[2:47:25 PM] kaushal patel: CustomerWiseReport
+[2:47:44 PM] kaushal patel: GetCustomerWiseReport
+[3:41:48 PM] umesh maliya: getmodel
+[5:12:31 PM] umesh maliya: "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]
+[5:52:21 PM] kaushal patel: dom: 'Blfrtip',
+                    buttons: [
+                   {
+                        extend: 'pdfHtml5',
+                        exportOptions: {
+                            modifier: {
+                                page: 'all'
+                            }
+                        },
+                        customize: function(doc) {
+                            //doc.defaultStyle.fontSize = 8;
+                            doc.content[1].table.widths = ['20%','25%','25%','8%','8%','9%','5%'];
+                       }
+                    },
+                ],
+[7:27:26 PM] kaushal patel: https://github.com/bpampuch/pdfmake/issues/197
+ Thursday 27 April 2017
+[3:00:59 PM] kaushal patel: http://code.datatables.net/forums/discussion/41263/add-fixed-header-and-footer-to-exported-pdf-file
+[3:12:10 PM] kaushal patel: 1ff766e125a3f189cccca6ccdea1c67a
+[4:05:58 PM] kaushal patel: 13446
+[4:23:55 PM] kaushal patel: Message removed.
+[4:26:46 PM] kaushal patel: Message removed.
+[6:05:36 PM] kaushal patel: bill list ma pdf ma je mukelu 6 te badhu work kare 6
+[6:05:57 PM] kaushal patel: comment 6 te pan work kare 6
+ Friday 28 April 2017
+[12:38:12 PM] umesh maliya: Message removed by you.
+[12:38:25 PM] umesh maliya: Message removed by you.
+[5:49:00 PM] umesh maliya: jQuery('.pagination li.active a').html()
+ Monday 01 May 2017
+[10:49:59 AM] umesh maliya: printservicewisereport
+[11:40:29 AM] kaushal patel: filtered from _MAX_ total entries
+[12:07:13 PM] umesh maliya: printservicewiseyearlyreport
+[12:50:49 PM] kaushal patel: printmonthlyreport
+[2:21:16 PM] kaushal patel: PrintModelWiseVehicleReport
+[2:21:23 PM] kaushal patel: printmodelwisevehiclereport
+[2:38:10 PM] kaushal patel: PrintCustomerWiseReport
+[2:38:17 PM] kaushal patel: printcustomerwisereport
+[2:39:32 PM] kaushal patel: Message removed.
+[2:39:37 PM] kaushal patel: in model
+[2:39:55 PM] kaushal patel: Message removed.
+[3:44:17 PM] kaushal patel: wp_get_nav_menu_items("Home Menu" , array("post_parent"=>"0")
+ Tuesday 02 May 2017
+[11:15:07 AM] kaushal patel: $P$B2Prw3CjYwQYyntA1nKfkdv8j2D9zc0
+[12:16:48 PM] kaushal patel: [ITM image="http://greenforplanet.com/wp-content/uploads/2017/04/2017-04-27-19_24_08-Masseuse-facial-4some-XVIDEOS.COM_.png" video" video="16470345"]
+ Wednesday 03 May 2017
+[11:28:53 AM] kaushal patel: http://greenforplanet.com/
+ Thursday 04 May 2017
+[2:48:37 PM] umesh maliya: menu_item_parent
+[5:00:41 PM] umesh maliya: Template Post Type: post, page, product
+[5:02:23 PM] umesh maliya: /*
+Template Name: Full-width layout
+Template Post Type: post, page, product
+*/
+[5:11:47 PM] kaushal patel: http://192.168.0.2/wordpress/bullseyebarandgrill/wp-admin/post.php?post=8&action=edit
+ Friday 05 May 2017
+[10:45:05 AM] umesh maliya: &cent;
+[3:53:48 PM] kaushal patel: http://www.ez-laundromat.com
+[11:26:52 AM] Narendra Patel: FTP Username: ez-laundromat@ez-laundromat.com
+FTP server: ftp.pateldenish.com
+FTP & explicit FTPS port:  21
+pass: IgexSol@428
+[3:54:06 PM] kaushal patel:  http://pateldenish.com/cpanel Username: patewqii
+ passwrod: M84xg@Aal
+[6:48:25 PM] kaushal patel: 446 Highland Rd W, Kitchener, ON N2M 3C6
+ Monday 08 May 2017
+[12:21:28 PM] umesh maliya: onkeypress="return address(event);"
+[12:22:15 PM] umesh maliya: onkeypress="return alphaOnly(event);"
+[12:38:14 PM] umesh maliya: <span class="asterisk">*</span>
+[4:43:08 PM] kaushal patel: <div class="form-group">
+                                                                <div class="col-md-3 col-sm-3 col-xs-3">
+                                                                    <label>Bill For</label>
+                                                                </div>
+                                                                <div class="col-md-9 col-sm-9 col-xs-9"> 
+                                                                        <label class="mt-radio">
+                                                                            <input type="radio" name="BillFor" id="BillFor" value="Party" checked> Party
+                                                                            <span></span>
+                                                                        </label>
+                                                                        <label class="mt-radio">
+                                                                            <input type="radio" name="Billfor" id="Billfor2" value="Customer">Customer
+                                                                            <span></span>
+                                                                        </label>
+                                                                </div>    
+                                                            </div>
+[5:09:46 PM] kaushal patel: 'getmobile','BillController@GetMobile';
+ Tuesday 09 May 2017
+[3:05:18 PM] kaushal patel: http://www.ez-laundromat.com/
+[3:43:05 PM] umesh maliya: get_current_user_id()
+[6:47:18 PM] kaushal patel: $objReader->setReadDataOnly(true);
+[6:56:37 PM] umesh maliya: http://192.168.1.2/html/tyreapp/excel
+[6:57:55 PM] kaushal patel: $objSheet->protectCells('A1:B1', 'PHP');
+ Wednesday 10 May 2017
+[4:20:40 PM] kaushal patel: {{csrf_field()}}
+[4:34:01 PM] kaushal patel: Message removed.
+[4:39:01 PM] kaushal patel: var extension = filename.replace(/^.*\./, '');
+[4:54:14 PM] umesh maliya: importprice
+[4:59:47 PM] kaushal patel: if ($request->hasFile('BillingHeaderLogo')) {
+                $destination = 'upload/CompanyLogo';
+                $file = $request->file('BillingHeaderLogo');
+                $tm = time();
+                $file->move($destination, $tm.$file->getClientOriginalName());
+                $BillingHeaderLogo = $destination. "/" .$tm.$file->getClientOriginalName();
+            }
+[5:06:35 PM] kaushal patel: enctype="multipart/form-data"
+[5:53:28 PM] umesh maliya: refresh marto
+[5:53:38 PM] kaushal patel: su?
+[5:53:42 PM] umesh maliya: marama
+[6:36:02 PM] kaushal patel: partydata
+[7:00:27 PM] kaushal patel: db name: embedinf_tyreapp
+DB_USER : embedinf_akshar
+DB_PASSWORD : IgexSol12@428
+ Thursday 11 May 2017
+[10:57:34 AM] umesh maliya: <div id="map"></div>
+    <script>
+      function initMap() {
+		  var myLatLng = {lat: -37.9017161, lng: 145.2221855};
+
+        // Create a map object and specify the DOM element for display.
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center:myLatLng ,
+          scrollwheel: false,
+		  disableDefaultUI: false,
+          zoom: 15
+        });
+		 var marker = new google.maps.Marker({
+          map: map,
+          position: myLatLng,
+          title: 'Hello World!'
+        });
+
+      }
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwZYgJtCL1Cii0VDZtiIpLuEZOoDPwbHY&callback=initMap"
+    async defer></script>
+[11:39:10 AM] umesh maliya: onkeypress="return alphaOnly(event);"
+[12:42:48 PM] umesh maliya: window.onload = function() {
+  document.getElementById("Box1").focus();
+};
+[2:31:17 PM] umesh maliya: CompanyId
+[3:22:03 PM] umesh maliya: VehicleCompanyId
+[3:22:11 PM] umesh maliya: VehicleModelId
+[4:21:03 PM] umesh maliya: <?php if(in_array('Employee List', session()->get('modules'))){ ?>
+[7:19:25 PM] umesh maliya: .date-box {
+    margin-bottom: 15px;
+[7:21:45 PM] umesh maliya: .date-box table tbody tr td
+ Friday 12 May 2017
+[2:52:50 PM] umesh maliya: Expiry Date
+[3:09:01 PM] umesh maliya: padding-left: 10px;
+[4:14:49 PM] kaushal patel: https://laracasts.com/discuss/channels/general-discussion/schedule-email-to-send-every-week?page=0
+[4:16:26 PM] kaushal patel: 'App\Console\Commands\Test',
+[5:00:06 PM] kaushal patel: $schedule->call(function(){
+            //call your logic here
+        })->cron('* * * * *');
+    }
+[5:04:15 PM] kaushal patel: 'App\Console\Commands\Test',
+[5:04:52 PM] kaushal patel: $schedule->command('purchase:podcast')->hourly();
+ Saturday 13 May 2017
+[10:25:32 AM] umesh maliya: https://jsfiddle.net/alvaroAV/qn8bb8q5/
+[2:35:54 PM] umesh maliya: (ttm)
+[5:52:24 PM] kaushal patel: <textarea class="form-control" name="RemarkText" id="RemarkText" placeholder="" rows="3" onkeypress="return alphanumeric(event);"></textarea>
+[5:57:39 PM] kaushal patel: {{old('EmployeeName')}}
+ Monday 15 May 2017
+[10:32:17 AM] umesh maliya: (morningafter)
+[2:22:45 PM] kaushal patel: http://www.ez-laundromat.com/
+[4:37:50 PM] kaushal patel: ExpenseType
+[5:09:07 PM] kaushal patel: "aaSorting": [[ 0, "desc" ]],
+[6:03:07 PM] umesh maliya: printexpenselist
+[6:08:01 PM] kaushal patel: PrintExpenseList
+ Tuesday 16 May 2017
+[5:39:36 PM] umesh maliya: ajax
+ Monday 22 May 2017
+[1:20:24 PM] kaushal patel: http://askelephant.embedinfosoft.com/
+[3:11:33 PM] umesh maliya: (unamused)
+[3:11:57 PM] umesh maliya: (headphones)
+[3:20:17 PM] umesh maliya: (tired)
+[4:29:00 PM] umesh maliya: 5145879563
+[4:34:47 PM] umesh maliya: 5047889549
+[5:07:06 PM] umesh maliya: Message removed by you.
+[5:08:21 PM] umesh maliya: (hestonfacepalm)
+[5:41:53 PM] kaushal patel: date('Y-m-d', strtotime('-7 days'));
+[5:47:10 PM] kaushal patel: Mail::send('mail', ['Email' => $request->input('Email'),'OwnerName' => $request->input('OwnerName')], function ($message) use($request)
+{
+    $message->from('info@embedinfosoft.com', 'Igex SOlutions');
+    $message->to($request->input('Email'), $request->input('OwnerName'));
+    $message->subject('Company created');
+    
+});
+ Tuesday 23 May 2017
+[10:07:57 AM] kaushal patel: paris@areanetwork.com.au
+[4:41:08 PM] umesh maliya: igexsolutions.com
+[4:42:05 PM] umesh maliya: http://prernagroup.com/
+ Wednesday 24 May 2017
+[10:31:35 AM] kaushal patel: https://nimbus.everhelper.me/client/notes/share/930143/dl2mbnsmh0wsx7rrzql8
+[2:29:24 PM] umesh maliya: 
+						    <input type="hidden" name="cmd" value="_cart">
+						    <input type="hidden" name="quantity_1" value="1">
+[2:30:27 PM] umesh maliya: 
+						    <input type="hidden" name="upload" value="1">
+(nazar)
+[2:35:33 PM] kaushal patel: https://www.sandbox.paypal.com/webapps/hermes?token=36412834TE902731M&useraction=commit&mfid=1495616660945_a2b84d4b574c2#/checkout/login
+[2:40:00 PM] umesh maliya: IgexSol@428
+[4:23:53 PM] kaushal patel: http://askelephantclub.embedinfosoft.com/
+[7:05:29 PM] kaushal patel: http://askelephant.embedinfosoft.com/
+ Thursday 25 May 2017
+[12:59:51 PM] umesh maliya: Message removed by you.
+[1:04:25 PM] umesh maliya: Message removed by you.
+[5:44:35 PM] umesh maliya: <img src="/captcha.php?rand=<?php echo rand();?>" id='captchaimg'><br>
+									        Can't read the image? click <a href='javascript: refreshCaptcha();'>here</a> to refresh.
+									        <input id="captcha_code" name="captcha_code" type="text">
+[5:44:52 PM] umesh maliya: function refreshCaptcha(){
+		var img = document.images['captchaimg'];
+		img.src = img.src.substring(0,img.src.lastIndexOf("?"))+"?rand="+Math.random()*1000;
+	}
+[6:10:25 PM] kaushal patel: wp_subscriber
+[6:10:31 PM] kaushal patel: FirstName
+[6:10:35 PM] kaushal patel: LastName
+[6:11:08 PM] kaushal patel: Email
+[6:11:36 PM] kaushal patel: Role
+[7:14:37 PM] kaushal patel: global $wpdb;
+    $wpdb->insert( 
+        'free_holidy_registration', 
+        array( 
+        'FirstName'   => $_POST['u_name'],
+        'LastName' => md5($_POST['lname']),
+        'UserEmail' => $_POST['uemail'],
+        'UserPhone' => $_POST['phone'],
+        'ReceiveNewsletter' => $_POST['Newsletter'],
+        'ReceiveInformation' => $_POST['Information'] 
+        )
+    );
+ Friday 26 May 2017
+[10:56:07 AM] umesh maliya: var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+			if(regex.test(Email)) {
+[11:48:27 AM] kaushal patel: SubcriberId
+[2:21:59 PM] kaushal patel: require_once("../../../../wp-load.php");
+[2:39:50 PM] kaushal patel: Donation
+[2:52:04 PM] kaushal patel: Donation
+ Saturday 27 May 2017
+[10:23:36 AM] kaushal patel: $P$BpVlbIGLqxRBc8xfetcwTdWjsp9VvT1
+[10:27:37 AM] umesh maliya: IgexSol@vishal428
+umesh@prernagroup.com
+ftp.prernagroup.com
+[11:33:59 AM] kaushal patel: http://demo.zeusorthocare.com
+[12:22:56 PM] umesh maliya: on_sent_ok: “location = ‘//wisdmlabs.com/’;”
+[12:28:08 PM] umesh maliya: <script>
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    location = 'http://example.com/';
+}, false );
+</script>
+[12:29:12 PM] umesh maliya: on_sent_ok: "alert('sent ok');"
+[1:06:55 PM] umesh maliya: https://www.onlineocr.net/
+[1:14:46 PM] umesh maliya: http://pelotone.com.au/staging/login
+[1:14:50 PM] umesh maliya: pelotone
+[1:14:56 PM] umesh maliya: oNEqRCz8
+[1:15:27 PM] umesh maliya: https://pelotone.com.au:2083/
+[1:15:49 PM] umesh maliya: pelotoneblacknov
+[1:16:05 PM] umesh maliya: U@=pWNxzagoG
+[3:27:13 PM] kaushal patel: dd67551507e32fab8c81600e9dc7bea717bef3e1
+[3:30:36 PM] kaushal patel: 5517bb2ed22184e0f5cd96de12ecc8197c414ea3
+[3:31:09 PM] kaushal patel: 2cf6ea71d766f53f2f91e00c8bf40a12cd9b41c5
+[3:55:58 PM]  umesh maliya sent file zeus.zip.
+[4:27:54 PM] umesh maliya: ftp.pelotone.com.au
+[4:27:55 PM] umesh maliya: umesh@pelotone.com.au
+[4:28:00 PM] umesh maliya: Igex@!12
+[4:34:26 PM] kaushal patel: <div class="col-xs-12 col-sm-6 col-md-6">
+<h2>Dynamic Compression Plates Small</h2>
+  <div class="col-xs-12 col-sm-6 col-md-6">
+     <div class="col-xs-12 col-sm-12 col-md-12">
+       <p>1.2.031 | SS316L</p>
+       <p>SHAFT HOLE : 4,5,6,7,8,9,10,11,12</p>
+     </div>
+     <div class="col-xs-12 col-sm-12 col-md-12">
+       <p>5.2.031 | TITANIUM</p>
+       <p>SHAFT HOLE : 4,5,6,7,8,9,10,11,12</p>
+
+     </div>
+ </div>
+ <div class="col-xs-12 col-sm-6 col-md-6">
+   <img src="http://demo.zeusorthocare.com/wp-content/uploads/2017/05/img22.jpg" alt="img22" width="1500" height="1000" class="alignnone size-full wp-image-328" />
+ </div>
+</div>
+ Monday 29 May 2017
+[10:27:40 AM] umesh maliya: Message removed by you.
+ Thursday 01 June 2017
+[10:25:53 AM] umesh maliya: http://www.amazon.in/redmi-4A/b?ie=UTF8&node=12177423031
+[11:25:53 AM] umesh maliya: val
+[11:55:54 AM] umesh maliya: jQuery('select').val('15').trigger('change.select2');
+[4:15:55 PM] umesh maliya: <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" id="payformlogin">
+						    <input type="hidden" name="business" value="test14.igex-facilitator@gmail.com">
+						    <input type="hidden" name="cmd" value="_cart">
+						    <input type="hidden" name="quantity_1" value="1">
+						    <input type="hidden" name="upload" value="1">
+						    <input type="hidden" name="item_name_1" value="'.$vnm.' Booking">
+						    <input type="hidden" name="amount_1" value="" class="paymnt">
+						    <input type="hidden" name="item_name_2" value="Additional as Gratuity Fees '.get_option('gratuity').'%">
+						    <input type="hidden" name="amount_2" value="" class="paymnt_2">
+						    <input type="hidden" name="item_name_3" value="Credit Card Processing and Other Fees '.get_option('processing').'%">
+						    <input type="hidden" name="amount_3" value="" class="paymnt_3">
+						    <input name="item_name_4" value="Child seat" type="hidden">
+						    <input name="amount_4" value="" class="child" type="hidden">
+						    <input name="item_name_5" value="Meet AND Greet + Parking" type="hidden">
+						    <input name="amount_5" value="" class="parking" type="hidden">
+						    <input name="item_name_6" value="Toll" type="hidden">
+						    <input name="amount_6" value="" class="toll" type="hidden">
+						    <input type="hidden" name="tax_cart" value="6" class="tax">
+						    <input type="hidden" id="quantity_4" name="quantity_4" value="1">
+						    <input type="hidden" name="credits" value="510">
+						    <input type="hidden" name="userid" value="" class="userid">
+						    <input type="hidden" name="no_shipping" value="1">
+						    <input type="hidden" name="custom" value="" class="custom">
+						    <input type="hidden" name="currency_code" value="USD">
+						    <input type="hidden" name="handling" value="0">
+						    <input type="hidden" name="cancel_return" value="'.site_url().'">
+						    <input type="hidden" name="return" value="'.site_url().'/thank-you">
+						</form>
+[4:22:23 PM] umesh maliya: Message removed by you.
+[4:22:38 PM] umesh maliya: (busyday)
+[5:49:35 PM] kaushal patel: http://www.mylimonyc.com/OfficialNYCLimo/ipn.php
+ Friday 02 June 2017
+[10:35:52 AM] kaushal patel: http://executivemarkets.embedinfosoft.com/ipn/
+[11:15:18 AM] umesh maliya: ema to mysql halse
+[11:55:45 AM]  umesh maliya sent file ipn.php.
+[12:01:41 PM]  umesh maliya sent file wp_lbyq_paypal_ipm.sql.
+[6:15:16 PM] umesh maliya: onkeypress="return alphaOnly(event);"
+ Monday 05 June 2017
+[12:20:45 PM] umesh maliya: (festiveparty)
+[6:04:16 PM] umesh maliya: IgexSol12@428
+ Tuesday 06 June 2017
+[11:15:26 AM] kaushal patel: http://rosecourtmotel.com/new-site/reservation.html
+[5:36:10 PM] umesh maliya: (like)
+[6:01:39 PM] kaushal patel: (hero)
+[6:02:48 PM] umesh maliya: (hotchocolate) (cupcake) (rockchick) (nestingeggs) (hendance) (lamb) (chicksegg)
+ Wednesday 07 June 2017
+[2:35:39 PM] kaushal patel: https://clients.mindbodyonline.com/ASP/main_shop.asp?tg=2&pMode=1
+[5:04:35 PM] umesh maliya: (cwl)
+[5:57:10 PM] umesh maliya: http://rosecourtmotel.com/new-site/wp-admin/admin.php?page=reservation.aspx
+ Friday 09 June 2017
+[10:04:10 AM] umesh maliya: datepicker
+[11:06:36 AM] kaushal patel: http://lowescouponstore.com/ipn.php
+[11:14:01 AM] umesh maliya: wpcf7-form-control wpcf7-date hasDatepicker
+[3:07:28 PM] Umesh Maliya: Message removed.
+[5:16:48 PM] Umesh Maliya: display nowrap dataTable no-footer
+ Saturday 10 June 2017
+[3:54:16 PM] Umesh Maliya: (cwl)
+ Tuesday 13 June 2017
+[12:17:41 PM] Umesh Maliya: http://192.168.1.2/currency_convertor.php
+ Thursday 15 June 2017
+[12:41:40 PM] Umesh Maliya: http://www.amazon.in/Xiaomi-Redmi-4A-Gold-16GB/dp/B01FM7JZME/ref=gbph_img_m-3_6706_b8fa34d7?smid=A2PUU7R2DWKT4V&pf_rd_p=be800966-4b15-4426-8d5d-46469fb16706&pf_rd_s=merchandised-search-3&pf_rd_t=101&pf_rd_i=12177423031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=1Q2PH0C6MQQCKVCZEAYZ
+[3:56:31 PM] Umesh Maliya: data-placeholder="abcdef"
+ Friday 16 June 2017
+[10:24:39 AM] kaushal patel: add_action( 'admin_menu', 'membership_payment_menu' );
+function membership_payment_menu(){
+	add_menu_page( 'Membership Payment', 'Membership Payment', 'manage_options', 'membership_payment.aspx', 'membershipsettings', 'dashicons-admin-settings' ); 
+}
+function membershipsettings(){
+	include "membership_payment.php";
+}
+[10:46:52 AM]  kaushal patel sent file membership_payment.php.
+[11:19:38 AM] kaushal patel: <?php
+require_once("../../../wp-load.php");
+global $wpdb;
+$table = 'paypal_ipm';
+$primaryKey = 'id';
+$columns = array(
+    array( 'db' => '`s`.`id`',            'dt'=> 0, 'field' => 'id' ),
+    array( 'db' => '`s`.`first_name`',            'dt'=> 1, 'field' => 'first_name','formatter'=>function($d, $row){ return $d.' '.$row['last_name'];} ),
+    array( 'db' => '`s`.`payer_email`',            'dt'=>2, 'field' => 'payer_email' ),
+    array( 'db' => '`s`.`payment_gross`',            'dt'=> 3, 'field' => 'payment_gross','formatter'=>function($d){ return '$ '.$d;} ),
+    array( 'db' => '`s`.`payment_date`',            'dt'=> 4, 'field' => 'payment_date', 'formatter'=>function($d){ return date('Y-m-d',strtotime($d)); } ),
+    array( 'db' => '`s`.`last_name`',            'dt'=> 5, 'field' => 'last_name' ),
+);
+$sql_details = array(
+    'user' => "$wpdb->dbuser",
+    'pass' => "$wpdb->dbpassword",
+    'db'   => "$wpdb->dbname",
+    'host' => "$wpdb->dbhost"
+);
+$joinQuery = "FROM `paypal_ipm` AS `s`";
+$where = "`s`.`item_name` = 'Membership Payment'";
+//$where = "`s`.`item_name` = Donation AND `b`.`CompanyID`=$id";
+/*$groupby = '`b`.`CustomerName`,`b`.`MobileNumber`';*/
+require( 'ssp.customized.class.php' );
+echo json_encode(
+    SSP::simple( $_GET, $sql_details, $table, $primaryKey, $columns, $joinQuery, $where)
+);
+?>
+ Monday 19 June 2017
+[4:16:26 PM] Umesh Maliya: echo date('Y-m-d',strtotime("+10 day", $date));exit;
+[5:55:54 PM] Umesh Maliya: hii
+ Tuesday 20 June 2017
+[12:49:20 PM] Umesh Maliya: "aaSorting": [ [2,'desc'], [1,'desc'] ],
+[4:28:59 PM] Umesh Maliya: add_action( 'wp_login_failed', 'front_end_login_fail' );
+function front_end_login_fail( $username ) {
+	// Getting URL of the login page
+	$referrer = $_SERVER['HTTP_REFERER'];    
+	// if there's a valid referrer, and it's not the default log-in screen
+	if( !empty( $referrer ) && !strstr( $referrer,'wp-login' ) && !strstr( $referrer,'wp-admin' ) && !strstr( $referrer,' wp-login.php' )) {
+		session_start();
+		$_SESSION['log_arr']="Please Enter Valid Username And Password";
+		wp_redirect( get_permalink( 47 ) . "?login=failed" ); 
+		exit;
+	}
+}
+[5:37:01 PM] kaushal patel: hi
+[5:38:27 PM] Umesh Maliya: hi
+ Wednesday 21 June 2017
+[10:03:18 AM] Umesh Maliya: (anger)
+ Friday 23 June 2017
+[9:58:48 AM] kaushal patel: https://www.meistertask.com/app/dashboard
+[2:54:14 PM] kaushal patel: askelephant.embedinfosoft.com/donate/
+[2:54:46 PM] kaushal patel: http://askelephant.embedinfosoft.com/donation/
+ Saturday 24 June 2017
+[10:02:34 AM] Umesh Maliya: (winner)
+[10:54:05 AM] kaushal patel: https://www.sandbox.paypal.com/webscr?cmd=_profile-website-payments&CALL_FORM_UPDATE=false&country.x=US&locale.x=en_US
+[5:55:55 PM] Umesh Maliya: hi
+[6:30:54 PM] kaushal patel: http://askelephant.embedinfosoft.com/membershi-payment/
+ Monday 26 June 2017
+[4:53:07 PM] kaushal patel: {{$errors->first('BillMobile')}}
+ Tuesday 27 June 2017
+[10:36:22 AM] kaushal patel: <i class="fa fa-user-o"></i>
+[10:39:05 AM] kaushal patel: <i class="fa fa-comment"></i>
+[10:43:56 AM] kaushal patel: <i class="fa fa-circle-o"></i>
+[10:50:15 AM] kaushal patel: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+[4:52:51 PM] Umesh Maliya: <script src="http://192.168.1.2/html/book/assets/global/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js" type="text/javascript"></script>
+[4:56:56 PM] Umesh Maliya: $(function () {
+                $('#datetimepicker4').datetimepicker();
+            });
+[4:57:49 PM]  Umesh Maliya sent file bootstrap-datetimepicker-master.zip.
+[5:02:56 PM]  Umesh Maliya sent file bootstrap-datetimepicker-master.zip.
+[6:27:47 PM] Umesh Maliya: $data = base64_decode($id);
+    	$user = json_decode($data);
+ Wednesday 28 June 2017
+[3:20:28 PM] Umesh Maliya: http://askelephant.embedinfosoft.com/
+[6:34:59 PM] kaushal patel: /askelephant/wp-content/themes/ask-elephant/js
+[6:36:22 PM] kaushal patel: http://askelephant.embedinfosoft.com/wp-content/themes/ask-elephant/css/bootstrap.min.css
+http://askelephant.embedinfosoft.com/wp-content/themes/ask-elephant/css/bootstrap-datetimepicker.min.css
+[6:36:44 PM] kaushal patel: http://askelephant.embedinfosoft.com/wp-content/themes/ask-elephant/js/bootstrap.min.js
+http://askelephant.embedinfosoft.com/wp-content/themes/ask-elephant/js/bootstrap-datetimepicker.js
+http://askelephant.embedinfosoft.com/wp-content/themes/ask-elephant/js/bootstrap-datetimepicker.fr.js
+[6:39:14 PM] kaushal patel: <script>
+    
+    jQuery(function () {
+        jQuery('.arrival').datetimepicker({
+        //language:  'fr',
+        weekStart: 1,
+        todayBtn:  1,
+		autoclose: 1,
+		todayHighlight: 1,
+		startView: 2,
+		forceParse: 0,
+        showMeridian: 1
+    });
+    });
+</script>
+ Thursday 29 June 2017
+[9:52:12 AM] kaushal patel: /home/embedinfosoft/public_html/lease-search/vendor/psy/psysh/src/Psy/Shell.php
+[12:39:52 PM] Umesh Maliya: .ajax
+[5:55:54 PM] Umesh Maliya: hi
+ Friday 30 June 2017
+[12:54:30 PM] kaushal patel: billing_state
+[12:54:38 PM] Umesh Maliya: $('#billing_state').select2({
+    placeholder: "Please select a country"
+});
+[12:57:01 PM] Umesh Maliya: jQuery("#billing_state").select2({
+   placeholder: "Select a State",
+   allowClear: true
+});
+[1:00:00 PM] Umesh Maliya: jQuery('#billing_state').prepend('<option></option>').select2({placeholder: "Select Month"});
+ Monday 03 July 2017
+[2:43:02 PM] Umesh Maliya: <?php
+				$args = array(
+					'posts_per_page'   => 1,
+					'offset'           => 0,
+					'orderby'          => 'date',
+					'order'            => 'ASC',
+					'post_type'        => 'recorded_video_foota',
+				);
+				$results = get_posts( $args );
+				foreach($results as $row){
+            	?>
+[4:58:16 PM] Umesh Maliya: get_the_author_meta('display_name', $author_id);require 'MPDF53/mpdf.php';
+[5:00:06 PM] Umesh Maliya: (sarcastic)
+[5:04:06 PM] Umesh Maliya: $mpdf->Output('MyPDF.pdf', 'D');
+[5:07:15 PM] Umesh Maliya: $html="my HTML code here !";
+
+$mpdf=new mPDF('c','A4','','',32,25,27,25,16,13); 
+$mpdf->SetDisplayMode('fullpage');
+$mpdf->list_indent_first_level = 0; 
+$stylesheet = file_get_contents('mpdfstyletables.css');
+$mpdf->WriteHTML($stylesheet,1);
+$mpdf->WriteHTML($html);
+$mpdf->Output('mpdf.pdf');
+ Tuesday 04 July 2017
+[2:24:41 PM] Umesh Maliya: (sarcastic) (headphones)
+ Wednesday 05 July 2017
+[11:53:12 AM] Umesh Maliya: https://stackoverflow.com/questions/8115683/php-curl-custom-headers
+[12:34:56 PM] Umesh Maliya: hi
+[5:37:35 PM] kaushal patel: <?php
+require_once("../../../wp-load.php");
+global $wpdb;
+$table = 'paypal_ipm';
+$primaryKey = 'id';
+$columns = array(
+    array( 'db' => '`s`.`id`',            'dt'=> 0, 'field' => 'id' ),
+    array( 'db' => '`s`.`contact_no`',            'dt'=> 1, 'field' => 'contact_no' ),
+    array( 'db' => '`s`.`first_name`',            'dt'=> 2, 'field' => 'first_name','formatter'=>function($d, $row){ return $d;} ),
+    array( 'db' => '`s`.`email_id`',            'dt'=>3, 'field' => 'email_id' ),
+    array( 'db' => '`s`.`Phone`',            'dt'=> 4, 'field' => 'Phone' ),
+    array( 'db' => '`s`.`custom`',            'dt'=> 5, 'field' => 'custom' ),
+    array( 'db' => '`s`.`handling_amount`',            'dt'=> 6, 'field' => 'handling_amount' ),
+    array( 'db' => '`s`.`txn_id`',            'dt'=> 7, 'field' => 'txn_id' ),
+    array( 'db' => '`s`.`payer_id`',            'dt'=> 8, 'field' => 'payer_id' ),
+    array( 'db' => '`s`.`payment_gross`',            'dt'=> 9, 'field' => 'payment_gross','formatter'=>function($d){ return '$ '.$d;} ),
+    array( 'db' => '`s`.`user_type`',            'dt'=> 10, 'field' => 'user_type' ),
+    array( 'db' => '`s`.`Country`',            'dt'=>11, 'field' => 'Country' ),
+    array( 'db' => '`s`.`State`',            'dt'=>12, 'field' => 'State' ),
+    array( 'db' => '`s`.`Suburb`',            'dt'=>13, 'field' => 'Suburb' ),
+    array( 'db' => '`s`.`ZipCode`',            'dt'=>14, 'field' => 'ZipCode' ),
+   array( 'db' => '`s`.`payment_date`',            'dt'=> 15, 'field' => 'payment_date', 'formatter'=>function($d){ return date('Y-m-d',strtotime($d)); } ),
+    array( 'db' => '`s`.`last_name`',            'dt'=> 16, 'field' => 'last_name' ),
+);
+$sql_details = array(
+    'user' => "$wpdb->dbuser",
+    'pass' => "$wpdb->dbpassword",
+    'db'   => "$wpdb->dbname",
+    'host' => "$wpdb->dbhost"
+);
+$joinQuery = "FROM `paypal_ipm` AS `s`";
+$where = "`s`.`item_name` = 'Corporate Donation'";
+//$where = "`s`.`item_name` = Donation AND `b`.`CompanyID`=$id";
+/*$groupby = '`b`.`CustomerName`,`b`.`MobileNumber`';*/
+require( 'ssp.customized.class.php' );
+echo json_encode(
+    SSP::simple( $_GET, $sql_details, $table, $primaryKey, $columns, $joinQuery, $where)
+);
+?>
+ Friday 07 July 2017
+[1:21:36 PM] kaushal patel: http://192.168.1.2/html/book/api/adduser
+[1:26:18 PM] Umesh Maliya: {{ csrf_token() }}
+[1:28:42 PM] kaushal patel: o79jJEIPZubqBQWuY9H6QY3YUZB1IuK1MKzya91y
+[2:19:51 PM] Umesh Maliya: json_encode(verifyIdToken($token))
+[2:20:50 PM] Umesh Maliya: $token = $request->input('id');
+[2:23:38 PM] Umesh Maliya: Session::get('SessionToken')
+[6:23:09 PM] kaushal patel: unset($_SESSION['Products']);
+[6:34:36 PM] Umesh Maliya: <?php if(($_SESSION["reg_error"])){ ?>
+                    <div class="err-box">
+                        <p>ایمیل یا رمز عبور مطابقت ندارد</p>
+                    </div>
+                <?php unset($_SESSION['reg_error']); } ?>
+[6:35:21 PM] Umesh Maliya: <?= $_SESSION["reg_error"]; ?>
+[6:35:45 PM] Umesh Maliya: <?php if(isset($_SESSION["reg_success"])){ ?>
+                            <div class="suc-box">
+                                <p class="success"><?= $_SESSION["reg_success"]; ?></p>
+                            </div>
+                        <?php unset($_SESSION['reg_success']); } ?>
+ Saturday 08 July 2017
+[10:04:59 AM] kaushal patel: http://www.expertphp.in/article/api-authentication-using-jwt-in-laravel-5-4-tutorial-with-example
+[11:02:25 AM] kaushal patel: http://www.yudiz.com/laravel-5-4-oauth2-passport-authentation-via-mobile-web-services/
+[11:09:12 AM] kaushal patel: vMS2g501t58r0aFVdzGX4OnxW2JedUODs12UO0IV
+[4:25:46 PM] Umesh Maliya: var formData = new FormData();
+            formData.append('file', document.getElementById('file_any').files[0]);
+            formData.append('type_id', '2');
+            $.ajax({
+                url: "<?php echo get_template_directory_uri(); ?>/page-template/file_upload.php",
+                data: formData,
+                cache: false,
+                contentType: false,
+                processData: false,
+                type: 'POST',
+                beforeSend: function () {},
+                complete: function () {},
+                success: function (data) { },
+                error: function () {}
+            })
+[4:58:50 PM] Umesh Maliya: http://192.168.1.2/wordpress/secmeet/%d9%81%db%8c%d9%84%d9%85-%d9%87%d8%a7%db%8c-%d8%b6%d8%a8%d8%b7-%d8%b4%d8%af%d9%87/
+[5:51:32 PM] Umesh Maliya: Message removed.
+[5:51:57 PM] Umesh Maliya: Message removed.
+[5:54:20 PM] Umesh Maliya: for (var key in result)
+{
+   if (result.hasOwnProperty(key))
+   {
+      // here you have access to
+      var MNGR_NAME = result[key].MNGR_NAME;
+      var MGR_ID = result[key].MGR_ID;
+   }
+}
+ Monday 10 July 2017
+[11:23:05 AM] kaushal patel: http://192.168.1.2/html/book/admin/editcategory/5
+[11:25:39 AM] Umesh Maliya: 
+{
+CategoryID : 5
+CategoryName : "Test category 12"
+CategoryImage : "1499660689.png"
+CategoryDescription : "test description"
+IsActive : 1
+CreatedBy : 1
+CreatedDate : "2017-07-10 09:54:49"
+ModifiedBy : 1
+ModifiedDate : "2017-07-10 10:10:29"
+}
+[3:52:41 PM] kaushal patel: http://192.168.1.2/html/book/admin/addbook
+[4:02:30 PM] Umesh Maliya: [{"Publication":"Test"}]
+ Tuesday 11 July 2017
+[7:08:26 PM] Umesh Maliya: http://www.webhostingtalk.ir/archive/index.php/t-13692.html
+[7:08:35 PM] Umesh Maliya: minimum amount for zarinpal payment gateway
+ Wednesday 12 July 2017
+[10:34:02 AM] Umesh Maliya: phone_number=admin&old_password=123456&new_password=amal1234
+[1:10:00 PM] Umesh Maliya: find_in_set
+[1:10:46 PM] Umesh Maliya: $deptid="24";
+select * from Users where FIND_IN_SET('$deptid', DeptID);
+[1:24:58 PM] Umesh Maliya: https://github.com/ZarinPal-Lab/Documentation-PaymentGateway/blob/master/Doc-English.pdf
+[3:35:56 PM] kaushal patel: 192.168.1.2/html/book/admin/totalrecord
+[3:43:31 PM] Umesh Maliya: https://laravel.com/docs/5.4/queries
+[4:47:41 PM] kaushal patel: http://192.168.1.2/html/book/admin/booklistview?_token=mCmF3ciyoNrUyXb9oICJ4W5QtMbg8rsaV3A0lm2y&pageno=1
+ Thursday 13 July 2017
+[4:13:55 PM] kaushal patel: <?php wp_get_archives( array('type'=>'monthly','format'=>'html', 'how_post_count'=>false,'order'=>'DESC','post_type'=> 'our_blog')); ?>
+[5:35:45 PM] kaushal patel: $headers  = 'MIME-Version: 1.0' . "\r\n";
+	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+	$headers .= 'From: '.$nm.' <info@embedinfosoft.com>' . "\r\n";
+
+	/*$msg = '<html><body>';
+
+	$msg .= "<p>From: ".$nm." <".$email1."></p>";
+	$msg .= "<p>Phone: ".$_POST['Phone']."</p>";
+	$msg .= "<p>Message Body: ".$msg1."</p>";
+
+	$msg .= "<p>This e-mail was sent from a contact form on Ask Elephant (<a href=".site_url().">".site_url()."</a>)</p>";
+
+	$msg .= '</body></html>';*/
+	$msg = '<html xmlns="http://www.w3.org/1999/xhtml">';
+    $msg .= '<head>';
+    $msg .= '<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />';
+    $msg .= '<meta name="viewport" content="width=device-width, initial-scale=1">';
+    $msg .= '<title>NEW SPONSOR</title>';
+    $msg .= '<link href="http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800" rel="stylesheet" type="text/css">';
+    $msg .= '</head>';
+    $msg .= '<body style=" background-color:#e5e5e5;">';
+    $msg .= '<article>';
+    $msg .= '<section>';
+    $msg .= '<div class="container">';
+    $msg .= '<div class="row">';
+    $msg .= '<div class="nill-box-alr" style="float: left;width: 60%; font-family:Raleway;">';
+    $msg .= '<div class="bor-sec" style=" border: 1px solid #e5e5e5; border-radius: 10px 10px 0 0;float: left; background-color:#fff;font-family: "Roboto Condensed",sans-serif;">';
+    $msg .= '<div class="hed-ty-sec" style=" border-radius:10px 10px 0 0;float:left; width:100%; margin-bottom:15px; background:url(http://www.nillowpages.com/wp-content/themes/yellow_pages/images/header_stars.png) no-repeat scroll center center, rgba(0, 0, 0, 0) linear-gradient(#c41200, #af0606) repeat scroll 0 0 ;">';
+    $msg .= '<div class="col-md-3 col-sm-3 col-xs-12 dm-se-lg" style="float: none;margin: 0 auto;text-align: center; padding:15px;background-color: #fff;">';
+    $msg .= '<img src="'.get_template_directory_uri().'/images/askelephant-logo1.png" width="50%"/>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '<div class="col-md-12 col-sm-12 col-xs-12">';
+    $msg .= '<div class="mai-tit-sec" style=" float:left; width:100%;">';
+    $msg .= '<p class="tit-wel-sec" style="float:left; padding: 5px; margin:0;font-size: 15px;width:100%;">Date:'.date('Y-m-d').'</p>';
+    $msg .= '<p class="tit-wel-sec" style="float:left; padding: 5px; margin:0;font-size: 15px;width:100%;">Name: '.$nm.'</p>';
+    $msg .= '<p class="tit-wel-sec" style="float:left; padding: 5px; margin:0;font-size: 15px;width:100%;">Phone: '.$_POST['Phone'].'</p>';
+    $msg .= '<p class="tit-wel-sec" style="float:left; padding: 5px; margin:0;font-size: 15px;width:100%;"> Email: '.$email1.'</p>';
+    $msg .= '<p class="tit-wel-sec" style="float:left; padding: 5px; margin:0;font-size: 15px;width:100%;">'.$_POST['message'].'</p>';
+    $msg .= '<p class="tit-wel-sec" style="float:left; padding: 5px; margin:0;font-size: 15px;width:100%;">This e-mail was sent from a contact form on Ask Elephant (<a href='.site_url().'>'.site_url().'</a>)</p>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '<div class="col-md-12 col-sm-12 col-xs-12">';
+    $msg .= '<div class="prg-sec-tx" style="float:left; width:100%; margin-bottom:10px;">';
+    $msg .= '<div style="line-height:1px">';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '<div class="col-md-12 col-sm-12 col-xs-12">';
+    $msg .= '<div class="fot-sec-po" style="float:left; width:100%;">';
+    $msg .= '<p class="foot-lst-sec" style=" text-align:center;float:left; width:96%; margin:0; padding:15px; word-wrap:break-word;">copyright & trademark ASKELEPHANT &copy; 2011</p>'; 
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '</div>';
+    $msg .= '</section>';
+    $msg .= '</article>';
+    $msg .= '</body>';
+    $msg .= '</html>';
+	$result = wp_mail( $agent_email, $subject, $msg, $headers);
+ Friday 14 July 2017
+[5:44:11 PM] kaushal patel: http://192.168.1.2/html/book/admin/pagelistview
+[5:44:53 PM] kaushal patel: http://192.168.1.2/html/book/admin/testimoniallistview
+[6:42:17 PM] kaushal patel: http://192.168.1.2/html/book/admin/settingview
+ Monday 17 July 2017
+[4:49:23 PM] kaushal patel: http://192.168.1.2/html/kidsbookclub/
+ Tuesday 18 July 2017
+[10:41:42 AM] kaushal patel: <div id="home-page-slider">[nivoslider slug="home-page-slider"]</div>
+[1:23:07 PM] Umesh Maliya: $row->ReferenceId
+ Wednesday 19 July 2017
+[1:12:11 PM] kaushal patel: http://192.168.1.2/html/kidsbookclub/event
+[2:57:15 PM] Umesh Maliya: (whistle)
+[3:46:10 PM] Umesh Maliya: (unicorn)
+[4:29:09 PM] kaushal patel: catbooklist?CategoryId=
+[4:29:36 PM] kaushal patel: kidsbookclub
+ Thursday 20 July 2017
+[11:29:47 AM] Umesh Maliya: صندلی با موفقیت ذخیره می شود
+[3:49:55 PM] Umesh Maliya: (headphones)
+[3:50:31 PM] Umesh Maliya: (dream)
+[4:03:33 PM] kaushal patel: var cat=data.Category;
+var i = 0; var catcount = cat.length;
+for(i; i < catcount; i++){
+jQuery("#category option[value='" + cat[i] + "']").attr("selected", 1);
+jQuery("#category").multiselect("refresh");
+}
+ Friday 21 July 2017
+[12:01:07 PM] kaushal patel: http://ask-elephant.embedinfosoft.com/
+[3:35:22 PM] Umesh Maliya: http://192.168.1.2/wordpress/secmeet/wp-admin/
+[3:36:14 PM] Umesh Maliya: http://192.168.1.2/wordpress/secmeet/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+[3:52:19 PM] kaushal patel: Message removed.
+[3:54:09 PM] kaushal patel: Message removed.
+[3:56:07 PM] Umesh Maliya: (listening)
+[4:53:10 PM] Umesh Maliya: function readURL(input) {
+    jQuery('#error').html('');
+    if (input.files && input.files[0]) {
+        var file = input.files[0];
+        var fileType = file["type"];
+        if ((fileType=='image/gif') || (fileType=='image/jpeg') || (fileType=='image/png')) {
+            
+         } else {
+            document.getElementById("Logo").value = '';
+            jQuery('#error').html('Please select image file only');
+        }
+    }
+}
+onchange="checkimagefile(this);"
+[4:57:47 PM] kaushal patel: "guzzlehttp/guzzle": "~5.2",
+"paypal/reset-api-sdk-php":  "*"
+[4:58:07 PM] kaushal patel: php artisan vendor:publish
+[4:58:32 PM] kaushal patel: php artisan config:publish
+[5:06:19 PM] Umesh Maliya: "paypal/rest-api-sdk-php": "*"
+[5:10:21 PM] Umesh Maliya: paypal integration in laravel
+[5:25:24 PM] Umesh Maliya: http://jslim.net/blog/2014/09/19/integrate-paypal-sdk-into-laravel-4/
+ Saturday 22 July 2017
+[3:28:21 PM] kaushal patel: https://gmbhurgri.com/paypal-integration-in-laravel/
+[4:08:28 PM] kaushal patel: https://packagist.org/packages/netshell/paypal
+[4:27:37 PM] kaushal patel: http://itsolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-with-laravel54example.html
+[4:29:03 PM] Umesh Maliya: bol shu karvanu chhe?
+[4:29:10 PM] kaushal patel: kai nahi
+[4:29:15 PM] Umesh Maliya: :d
+ Tuesday 25 July 2017
+[1:02:30 PM] kaushal patel: http://ask-elephant.embedinfosoft.com/
+[1:23:45 PM] Umesh Maliya: hi
+[3:06:50 PM] kaushal patel: http://192.168.1.2/html/kidsbookclub/
+[6:29:04 PM] Umesh Maliya: $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL,"https://www.bigmarker.com/api/v1/conferences/".$conf_id);
+    curl_setopt($ch, CURLOPT_POST, 0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $server_output = curl_exec ($ch);
+    curl_close ($ch);
+ Wednesday 26 July 2017
+[10:55:52 AM] kaushal patel: http://192.168.1.2/html/kidsbookclub/
+[4:48:41 PM] kaushal patel: Message removed.
+[4:49:47 PM] kaushal patel: Message removed.
+[4:51:43 PM] kaushal patel: Message removed.
+[4:53:24 PM] kaushal patel: Message removed.
+[5:05:32 PM] kaushal patel: Message removed.
+[5:19:48 PM] kaushal patel: Message removed.
+[5:22:16 PM] kaushal patel: Message removed.
+[5:36:35 PM] kaushal patel: Message removed.
+[5:45:41 PM] kaushal patel: Message removed.
+[6:05:36 PM] Umesh Maliya: 1ff766e125a3f189cccca6ccdea1c67a
+ Friday 28 July 2017
+[2:22:50 PM] kaushal patel: /*
+* Template Name: Foggy Memories
+* Template Post Type: post
+[5:33:14 PM] kaushal patel:  $args = array(
+  'orderby' => 'id',
+   'hide_empty'=> 0,   'exclude'   => 1, //Child From Boxes Category 
+			    );
+			    $categories = get_categories($args);
+			    //print_r($categories);
+foreach ($categories as $cat) {
+}
+ Saturday 29 July 2017
+[10:27:06 AM] kaushal patel: $all_cat = get_terms( 'lifestytle',$defaults );
+[10:27:23 AM] kaushal patel: $defaults = array(
+									        'child_of'            => 0,
+									        'current_category'    => 0,
+									        'depth'               => 0,
+									        'echo'                => 1,
+									        'exclude'             => '',
+									        'exclude_tree'        => '',
+									        'feed'                => '',
+									        'feed_image'          => '',
+									        'feed_type'           => '',
+									        'hide_empty'          => 0,
+									        'hide_title_if_empty' => false,
+									        'hierarchical'        => true,
+									        'order'               => 'DESC',
+									        'orderby'             => 'tag_ID',
+[12:56:11 PM] kaushal patel: sudo mount -t cifs -o username=igexserver,password=igexsol12,uid=1000,gid=1000 //192.168.1.2/www /mnt/www
+[1:04:06 PM] kaushal patel: <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOyuJmybO7eA1ADvXVxnYgycDbJAa92SY&libraries=places&callback=initMap"></script>
+[4:19:58 PM] kaushal patel: include_once ABSPATH . 'wp-admin/includes/media.php';
+include_once ABSPATH . 'wp-admin/includes/file.php';
+include_once ABSPATH . 'wp-admin/includes/image.php';
+[4:21:03 PM] kaushal patel: add_post_meta($post_id, 'image', $filename);
+[5:14:16 PM] Umesh Maliya:  $uploadedfile = $_FILES['lava_featured_file'];
+$upload_overrides = array('test_form' => false);
+$movefile = wp_handle_upload($uploadedfile, $upload_overrides);
+if ($movefile) {
+	$file = $movefile['file'];
+	$filename = $_FILES['lava_featured_file']['name'];
+	$url = $movefile['url'];
+	//echo''igex''.$url;
+	$filetype = wp_check_filetype(basename($file), null);
+	$wp_upload_dir = wp_upload_dir();
+	$attachment = array(
+		'guid' => $wp_upload_dir['url'] . '/' . basename($file),
+		'post_mime_type' => $filetype['type'],
+		'post_title' => preg_replace('/\.[^.]+$/', '', basename($file)),
+		'post_content' => '',
+		'post_status' => 'inherit',
+	);
+	$attach_id = wp_insert_attachment($attachment, $file, $posts);
+	require_once ABSPATH . 'wp-admin/includes/image.php';
+	$attach_data = wp_generate_attachment_metadata($attach_id, $file);
+
+	wp_update_attachment_metadata($attach_id, $attach_data);
+	set_post_thumbnail($pid, $attach_id);
+}
+ Monday 31 July 2017
+[1:10:42 PM] kaushal patel: hii
+[6:08:04 PM] Umesh Maliya: https://jsfiddle.net/n180a9a7/
+https://stackoverflow.com/questions/30190588/html-select-multiple-as-dropdown
+ Tuesday 01 August 2017
+[10:25:08 AM]  Umesh Maliya sent file star-rating.zip.
+[10:31:19 AM] kaushal patel: <script src="//cdn.ckeditor.com/4.5.7/standard/ckeditor.js"></script>
+[10:31:55 AM] kaushal patel: ckeditor
+[10:37:31 AM] kaushal patel: jQuery("#phone").blur(function(){
+	        var mobile_ele = jQuery("#phone");
+	        var mobileNum = mobile_ele.val();
+	        var formattedNum = mobileNum.replace(/(\d{2})(\d{3})(\d{3})/g,"04$1 $2 $3");
+	        mobile_ele.val(formattedNum);
+	    });
+[3:12:55 PM] Umesh Maliya: (cwl)
+[5:01:29 PM] Umesh Maliya: amney thoduk aapo
+[5:43:59 PM] kaushal patel: http://192.168.1.2/html/kidsbookclub/
+ Wednesday 02 August 2017
+[12:18:21 PM] Umesh Maliya: $P$BLURjBe3gZv1.TSJWDUdv84zbnjdeu/
+[1:07:44 PM] Umesh Maliya: http://nubiannetwork.us/
+[2:10:08 PM] Umesh Maliya: member-account-page-business-information
+[6:16:28 PM] kaushal patel: $roles = wp_get_current_user()->roles;
+[6:20:50 PM] Umesh Maliya: wp_get_current_user()->roles[1]
+[6:24:26 PM] Umesh Maliya: 483-575
+[6:58:17 PM] kaushal patel: disableNativeSpellChecker
+ Thursday 03 August 2017
+[10:30:08 AM] kaushal patel: hi
+[11:23:10 AM] kaushal patel: http://igexsolutions.com/design/kidsbookclub/forum-details.html
+[12:23:49 PM] Umesh Maliya: CKEDITOR.config.scayt_autoStartup = true;
+CKEDITOR.replace( 'post_content', {
+    toolbar: [
+    { name: 'document', groups: [ 'mode', 'document', 'doctools' ] },
+    { name: 'clipboard', groups: [ 'clipboard', 'undo' ], items: [ 'Cut', 'Copy', 'Paste', 'PasteText', 'PasteFromWord', '-', 'Undo', 'Redo' ] },
+    { name: 'editing', groups: [ 'find', 'selection', 'spellchecker' ], items: [ 'Find', 'Replace', '-', 'SelectAll', '-', 'Scayt' ] },
+    { name: 'forms', items: [ 'Form', 'Checkbox', 'Radio', 'TextField', 'Textarea', 'Select', 'Button', 'ImageButton', 'HiddenField' ] },
+    { name: 'links', items: [ 'Link', 'Unlink' ] },
+    { name: 'insert', items: [ 'Flash', 'Table', 'HorizontalRule', 'Smiley', 'SpecialChar', 'PageBreak', 'Iframe' ] },
+    '/',
+    { name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ], items: [ 'Bold', 'Italic', 'Underline', 'Strike', 'Subscript', 'Superscript', '-', 'RemoveFormat' ] },
+    { name: 'paragraph', groups: [ 'list', 'indent', 'blocks', 'align', 'bidi' ], items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote', 'CreateDiv', '-', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock', '-', 'BidiLtr', 'BidiRtl', 'Language' ] },
+    /*{ name: 'styles', items: [ 'Styles', 'Format', 'Font', 'FontSize' ] },*/
+    { name: 'colors', items: [ 'TextColor', 'BGColor' ] }
+]
+});
+[12:24:47 PM] Umesh Maliya: https://stackoverflow.com/questions/23538462/how-to-remove-buttons-from-ckeditor-4
+[5:12:16 PM] kaushal patel: adduser123
+[5:12:25 PM] kaushal patel: AddUser123
+[5:14:51 PM] kaushal patel: _token
+[5:30:36 PM] Umesh Maliya: https://github.com/paypal/PayPal-PHP-SDK/issues/570
+function() {
+    echo 'we are here';
+});
+[5:54:39 PM] Umesh Maliya: csrf_field
+[5:55:56 PM] Umesh Maliya: <?php echo csrf_field(); ?>
+ Friday 04 August 2017
+[10:42:22 AM] kaushal patel: http://192.168.0.2/html/kidsbookclub/api/geturl
+[10:49:09 AM] kaushal patel: 'csrf' => 'App\Http\Middleware\VerifyCsrfToken',
+[11:04:49 AM] kaushal patel: http://192.168.0.2/html/kidsbookclub/
+[11:10:35 AM] kaushal patel: http://192.168.0.2/html/kidsbookclub/adduser
+[2:51:40 PM] kaushal patel: <?php $currebt_url = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; ?>
+[2:52:30 PM] Umesh Maliya: http://192.168.0.2/wordpress/igexsolutions
+[3:26:28 PM] Umesh Maliya: $('#bx-pager').parent('div').addClass('newClass');
+[4:34:32 PM] Umesh Maliya: global $post;
+    $post_slug=$post->post_name;
+[4:37:59 PM] kaushal patel: integratedbulksystem
+https://vip.ventraip.com.au 
+ 
+user : contactus@hiodit.com.au 
+pass : $#eagle$007
+ Tuesday 08 August 2017
+[1:09:13 PM] kaushal patel: AdEHIpDrLajvEBA4SoeONrursTRfkXqELTgSxB-4ySjiFA6dfi3Di2lN9FbGiUUzqPZfuf5R7gYTvWHY
+[1:09:20 PM] kaushal patel: EKp5SWQnuPqQyjIpiAMvXKyw_M1ePgKfXzqmm-QfO3t14Y6H5Qyv4sJzpzFY4_349mH376J5TNPT8gQT
+[1:14:47 PM] kaushal patel: use Illuminate\Support\Facades\Input;
+[1:16:43 PM] kaushal patel: return Redirect::to('/profile');
+[2:52:54 PM] kaushal patel: test14.igex-facilitator@gmail.com
+[2:53:25 PM] kaushal patel: IgexSol@428
+[3:20:29 PM] kaushal patel: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKWYX6EAMGS5Y
+[3:41:52 PM] kaushal patel: <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L6ANF3EEEVXP6">
+<input type="image" src="https://www.sandbox.paypal.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.sandbox.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+[4:14:41 PM] kaushal patel: http://192.168.0.2/html/kidsbookclub/ipn
+[4:17:18 PM] Umesh Maliya: http://embedinfosoft.com/kidsbookclub/ipn
+[5:09:10 PM] Umesh Maliya: <input type='hidden' name='notify_url' value='http://www.codexworld.com/paypal_ipn.php'>
+[5:45:35 PM] Umesh Maliya: "fahim/laravel5-paypal-ipn": "1.0.*"
+[5:46:23 PM] Umesh Maliya: use Fahim\PaypalIPN\PaypalIPNListener;
+[6:37:33 PM] Umesh Maliya: DB::table('users')->insert(
+    ['email' => 'john@example.com', 'votes' => 0]
+);
+[6:48:00 PM] kaushal patel: paypal_ipn.php
+[6:53:13 PM] Umesh Maliya: use Illuminate\Database\ConnectionResolverInterface
+[6:58:16 PM] Umesh Maliya: connection
+ Wednesday 09 August 2017
+[1:11:27 PM] Umesh Maliya: $P$BpVlbIGLqxRBc8xfetcwTdWjsp9VvT1
+[3:35:30 PM] kaushal patel: return json_encode(array('status'=> '1','message'=> 'Book Updated successfully.'));
+[6:28:18 PM] kaushal patel: https://nimbus.everhelper.me/client/notes/share/1055294/xqsgy4qutp4khpdp02lr
+[6:31:32 PM] kaushal patel: https://nimbus.everhelper.me/client/notes/share/1055304/e5fgpbqepq9m14mlscxn
+ Thursday 10 August 2017
+[12:56:36 PM] kaushal patel: var dateToday = new Date();
+minDate: dateToday
+[1:01:53 PM] kaushal patel: var date = new Date();
+
+var m = date.getMonth(), d = date.getDate(), y = date.getFullYear();
+[3:09:34 PM] kaushal patel: http://askelephant.org/cpanel
+
+cPanel Username askertzy
+cPanel Password UY_!c6H-3xnjY
+[3:10:27 PM] kaushal patel: nathi chaltu
+[5:15:10 PM] kaushal patel: server : 148.66.136.150
+[5:12:53 PM] Vishal Bhatt: user : ask-elephant@askelephant.org
+[5:13:03 PM] Vishal Bhatt: pass : Password1@1
+[6:59:53 PM] Umesh Maliya: https://wordpress.stackexchange.com/questions/25241/url-rewrite-page-custom-post-type-unusual-redirect
+ Friday 11 August 2017
+[2:17:59 PM] Umesh Maliya: http://192.168.0.2/wordpress/secmeet
+[2:19:56 PM] Umesh Maliya: https://wordpress.stackexchange.com/questions/58067/custom-plugin-route-in-wordpress
+ Saturday 12 August 2017
+[10:54:21 AM] kaushal patel: 'csrf' => 'App\Http\Middleware\VerifyCsrfToken'
+[5:05:08 PM] Umesh Maliya: 'smtp.port' => '465',
+'smtp.encryption' => 'ssl',
+[5:56:28 PM] Umesh Maliya: 127.0.0.1       localhost
+127.0.1.1       igexserver
+[6:20:38 PM] Umesh Maliya: # See /usr/share/postfix/main.cf.dist for a commented, more complete version
+
+
+# Debian specific:  Specifying a file name will cause the first
+# line of that file to be used as the name.  The Debian default
+# is /etc/mailname.
+#myorigin = /etc/mailname
+
+smtpd_banner = $myhostname ESMTP $mail_name (Ubuntu)
+biff = no
+
+# appending .domain is the MUA's job.
+append_dot_mydomain = no
+
+# Uncomment the next line to generate "delayed mail" warnings
+#delay_warning_time = 4h
+
+readme_directory = no
+
+# TLS parameters
+smtpd_tls_cert_file=/etc/ssl/certs/ssl-cert-snakeoil.pem
+smtpd_tls_key_file=/etc/ssl/private/ssl-cert-snakeoil.key
+smtpd_use_tls=yes
+smtpd_tls_session_cache_database = btree:${data_directory}/smtpd_scache
+smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache
+
+# See /usr/share/doc/postfix/TLS_README.gz in the postfix-doc package for
+# information on enabling SSL in the smtp client.
+
+smtpd_relay_restrictions = permit_mynetworks permit_sasl_authenticated defer_unauth_destination
+myhostname = igexserver
+alias_maps = hash:/etc/aliases
+alias_database = hash:/etc/aliases
+mydestination = $myhostname, igexserver, localhost.localdomain, , localhost
+relayhost = 
+mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128
+mailbox_size_limit = 0
+recipient_delimiter = +
+inet_interfaces = all
+inet_protocols = all
+smtp_sasl_auth_enable = yes
+smtp_sasl_security_options = noplaintext noanonymous
+smtp_sasl_password_maps = hash:/etc/postfix/sasl_password
+[6:20:52 PM] kaushal patel: aa badhu su 6?
+[6:21:05 PM] Umesh Maliya: tu santi rakhne
+[6:33:05 PM] Umesh Maliya: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
+ Wednesday 16 August 2017
+[5:10:56 PM] kaushal patel: https://stackoverflow.com/questions/12301358/send-attachments-with-php-mail
+[5:32:52 PM] kaushal patel: Message removed.
+[5:33:53 PM] kaushal patel: Message removed.
+[5:37:00 PM] kaushal patel: Message removed.
+[6:34:28 PM] kaushal patel: Personal Information
+[6:36:21 PM] kaushal patel: Employment
+ Thursday 17 August 2017
+[11:15:09 AM] Umesh Maliya: http://embedinfosoft.com/secmeet/
+[4:56:40 PM] Umesh Maliya: hi
+ Friday 18 August 2017
+[1:21:11 PM] kaushal patel: http://192.168.0.2/employee/Vishal/HTML-SITE/the-wood-side/index.html
+[2:36:54 PM] Umesh Maliya: http://www.cmsb.com.my/
+[4:53:24 PM] Umesh Maliya: $P$BbfyVffGapVqnygOZeqBBYexf7DTUm1
+ Saturday 19 August 2017
+[10:53:39 AM] Umesh Maliya: edf7efb102a0
+[12:14:48 PM] Umesh Maliya: http://embedinfosoft.com/secmeet/%d8%ac%d8%b2%d8%a6%db%8c%d8%a7%d8%aa-%da%a9%d9%86%d9%81%d8%b1%d8%a7%d9%86%d8%b3/Management/
+[4:52:53 PM]  Umesh Maliya sent file screenshot2.png.
+[5:08:05 PM] kaushal patel: define('DB_NAME', 'embedinf_the-wood-side');
+
+/** MySQL database username */
+define('DB_USER', 'embedinf_akshar');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'IgexSol12@428');
+ Monday 21 August 2017
+[12:03:30 PM] Umesh Maliya: http://192.168.0.2/html/kidsbookclub/chat
+[12:58:10 PM] Umesh Maliya: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_filter_list
+[3:04:51 PM] kaushal patel: /***************************   set url like post slug *****************/
+function custom_rewrite_rule() {
+    add_rewrite_rule('^product/([^/]*)/?','index.php?page_id=130&cnm=$matches[1]','top');
+}
+add_action('init', 'custom_rewrite_rule', 10, 0);
+[4:40:29 PM] kaushal patel: http://192.168.0.2/wordpress/the-wood-side/product/abc/
+[5:20:37 PM] Umesh Maliya: ->where(function ($query) use ($prjnam,$uid){
+                $query->where('city_master.CityName','LIKE',"%$prjnam%")
+                      ->orWhere('ed1.FieldValue','LIKE',"%$prjnam%");
+            })
+ Tuesday 22 August 2017
+[12:49:16 PM] kaushal patel: Message removed.
+ Wednesday 23 August 2017
+[11:34:13 AM] kaushal patel: $ sudo apt-get remove firefox
+[11:34:26 AM] kaushal patel: $ sudo add-apt-repository ppa:ubuntu-mozilla-security/ppa
+
+$ sudo apt-get update
+
+$ sudo apt-get install firefox
+[2:49:16 PM] kaushal patel: sudo apt-get update
+wget https://ftp.mozilla.org/pub/firefox/releases/51.0/linux-i686/en-US/firefox-51.0.tar.bz2
+tar -xjf firefox-51.0.tar.bz2
+sudo rm -rf /opt/firefox50
+sudo mv firefox /opt/firefox51
+sudo mv /usr/bin/firefox /usr/bin/firefoxold
+sudo ln -s /opt/firefox51/firefox /usr/bin/firefox
+ Friday 25 August 2017
+[11:32:41 AM] kaushal patel: jQuery("form").trigger("reset");
+[11:59:46 AM] kaushal patel: Route::('api/userswapbook','HomeController@UserSwapBook');
+[4:42:50 PM] Umesh Maliya: hi
+ Saturday 26 August 2017
+[11:19:46 AM] Umesh Maliya: http://jsfiddle.net/bradchristie/66RvC/1/
+[12:24:54 PM] Umesh Maliya:  <frameset cols="100%">
+  <frame src="frame_a.htm">
+</frameset>
+[12:26:25 PM] Umesh Maliya: setInterval(function(){
+		
+	}, 3000);
+[12:27:39 PM] Umesh Maliya: <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+[12:45:08 PM] Umesh Maliya: http://gujaratinformation.net/downloads/rozgaar_23_08_2017.pdf
+[1:02:01 PM] Umesh Maliya: http://itsolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-with-laravel54example.html
+[2:23:54 PM] Umesh Maliya: Message removed.
+[2:36:26 PM] Umesh Maliya: composer kay rite run thay?
+[2:36:42 PM] kaushal patel: ?
+[2:37:50 PM] Umesh Maliya: laravel composer kay rite run thay
+[2:37:54 PM] Umesh Maliya: terminal ma
+[2:38:47 PM] kaushal patel: te run karvani jarur nathi
+[2:39:03 PM] Umesh Maliya: kem?
+[2:42:32 PM] kaushal patel: te code mukvo hoy te direct muki devano
+[2:43:05 PM] Umesh Maliya: 'client_id' =>'paypal client_id',
+
+'secret' => 'paypal secret ID',
+[2:43:06 PM] Umesh Maliya: aap
+[2:46:37 PM] Umesh Maliya: ?
+[2:47:08 PM] kaushal patel: tame su karo 60
+[2:47:09 PM] kaushal patel: ?
+[2:47:22 PM] Umesh Maliya: tu lavne
+[2:47:35 PM] Umesh Maliya: tarama sali nay karu
+[2:47:38 PM] kaushal patel: aapu
+[2:48:06 PM] kaushal patel: 'client_id' =>'AdEHIpDrLajvEBA4SoeONrursTRfkXqELTgSxB-4ySjiFA6dfi3Di2lN9FbGiUUzqPZfuf5R7gYTvWHY',
+
+'secret' => 'EKp5SWQnuPqQyjIpiAMvXKyw_M1ePgKfXzqmm-QfO3t14Y6H5Qyv4sJzpzFY4_349mH376J5TNPT8gQT',
+[2:54:51 PM] Umesh Maliya: http://192.168.0.2/html/blog5/paywithpaypal
+[3:17:27 PM] kaushal patel: 
+        'csrf' => 'App\Http\Middleware\VerifyCsrfToken'
+[3:19:11 PM] kaushal patel: "fahim/laravel5-paypal-ipn": "1.0.*"
+[4:04:29 PM] Umesh Maliya: include(/var/www/html/blog5/vendor/composer/../../app/Http/Middleware/VerifyCsrfToken.php): failed to open stream: No such file or directory
+[4:21:50 PM] kaushal patel: use Illuminate\Support\Facades\Input;
+[4:24:19 PM] kaushal patel: 
+use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\Input;
+use Illuminate\Support\Facades\Redirect;
+[4:45:16 PM] kaushal patel: http://www.mytokri.com/auctions/lets-bid/?gclid=CLLwltzi9NUCFdCFaAodLKUNcQ
+[4:54:04 PM] kaushal patel: AcBWb9gMOnd4FWT5aDBMkFckncuAVvIJ8XH2R64nCsovAeFCX-tc9DmQltPT3FiRcAa3oreyTX4iL5YY
+[4:54:16 PM] kaushal patel: EN3Dgg39Y16YKmOX5z5QkejGkVi8MPlA6Mbx4sIvW_3Ftu-uRcIBTHFO5FNFb-EJDsS2PmsYMjykTJJ2
+[4:56:07 PM] kaushal patel: return Redirect::to('/');
+[5:15:08 PM] Umesh Maliya: http://192.168.0.2/html/blog5/paywithpaypal
+[5:39:23 PM] Umesh Maliya: (learn)
+[6:46:56 PM] kaushal patel: test14.igex-facilitator@gmail.com
+ Tuesday 29 August 2017
+[11:53:41 AM] kaushal patel: 9714001602
+[5:25:05 PM] Umesh Maliya: https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_onbeforeunload
+[5:48:45 PM] kaushal patel: https://www.google.com/maps/place/213+W+Broad+St,+Palmyra,+NJ+08065/@40.0024954,-75.0254987,19z/data=!4m13!1m7!3m6!1s0x89c6b5a2c0adb5bd:0xc3179c9534c81e54!2s213+W+Broad+St,+Palmyra,+NJ+08065!3b1!8m2!3d40.0026156!4d-75.0249354!3m4!1s0x89c6b5a2c0adb5bd:0xc3179c9534c81e54!8m2!3d40.0026156!4d-75.0249354
+[5:58:16 PM] Umesh Maliya: http://nubiannetwork.staging.wpengine.com/member-login/
+ctillmanw
+ctillman1
+[6:08:14 PM] Umesh Maliya: https://jsfiddle.net/alvaroAV/qn8bb8q5/
+ Wednesday 30 August 2017
+[3:33:35 PM] Umesh Maliya: http://embedinfosoft.com/secmeet
+ Thursday 31 August 2017
+[9:35:17 AM] kaushal patel: https://www.facebook.com/The-Wood-Side-830045300504033
+[10:11:47 AM] kaushal patel: http://192.168.0.2/wordpress/the-wood-side/brand/samsung/
+[10:13:39 AM] Umesh Maliya: {"access_token":"113256952721845|_a3kNskGBxIDglT6oq4Lw0zFzRY","token_type":"bearer"}
+[10:19:28 AM] Umesh Maliya: http://thisinterestsme.com/facebook-page-post-feed-php/
+[10:41:28 AM] Umesh Maliya: https://stackoverflow.com/questions/28124078/get-latest-facebook-posts-of-page-with-php-sdk
+[10:42:15 AM] kaushal patel: 830045300504033_830047940503769
+[2:50:00 PM] Umesh Maliya: TdG1pRea66TPF3noftnf3op0vLlgu2rb5hiQzAEZ3xFWCnywQ6
+[2:50:34 PM] Umesh Maliya: fTSRvqQWu2mNJKNPA3UPYtvt4
+[2:50:41 PM] Umesh Maliya: TdG1pRea66TPF3noftnf3op0vLlgu2rb5hiQzAEZ3xFWCnywQ6
+[2:51:16 PM] Umesh Maliya: 903182524943179776-loywzzkfBxe1WC2Qy81JxNOPvhJ80XO
+[2:51:24 PM] Umesh Maliya: UVlnivMDAfMBOYACl2TCKQAMwfqARhVbbDR5jPlEzCjSq
+[2:53:02 PM] Umesh Maliya: https://twitter.com/
+test16.igex@gmail.com
+IgexSol12@428
+[4:16:17 PM] Umesh Maliya: https://flowpaper.com/demo/
+[5:27:43 PM] Umesh Maliya: hi
+[6:55:22 PM] Umesh Maliya: http://192.168.0.2/employee/Umesh/akashacms-document-viewers-master/assets/vendor/Viewer.js/#../dummy.pdf
+ Friday 01 September 2017
+[10:09:27 AM] Umesh Maliya: http://192.168.0.2/employee/Umesh/viewerjs-0.5.8/ViewerJS/#dummy.pdf
+[11:36:55 AM] Umesh Maliya: http://192.168.0.2/employee/Umesh/test.php
+[1:13:07 PM] Umesh Maliya: http://dev.integratedbulksystems.com.au/service/bucket-elevators/
+http://dev.integratedbulksystems.com.au/wp-content/uploads/2017/04/as-300x45.jpg
+[3:34:58 PM] Umesh Maliya: http://192.168.0.2/employee/Umesh/pdf/web/viewer.html
+[4:46:12 PM] Umesh Maliya: (shivering)
+[4:47:51 PM] Umesh Maliya: (idea)
+[4:47:58 PM] Umesh Maliya: bar jato re
+ Saturday 02 September 2017
+[12:09:03 PM] kaushal patel:  var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        if(re.test(Email)){
+[1:13:25 PM] Umesh Maliya: ignor
+[1:13:33 PM] Umesh Maliya: mailnu karvanu chhe
+[1:13:36 PM] Umesh Maliya: invite
+[1:14:46 PM] Umesh Maliya: 
+after conference create redirect to my conference
+[1:25:24 PM] Umesh Maliya: title width 100% in home conference list
+[2:29:20 PM] Umesh Maliya: http://192.168.0.2/html/kidsbookclub/swapinbooklist
+[2:30:27 PM] Umesh Maliya: http://192.168.0.2/html/kidsbookclub/admin/swapbooklist
+[2:43:42 PM] Umesh Maliya: add resume in profile page of conference user
+[3:27:57 PM] Umesh Maliya: cv link and social links
+and remo ve other content
+[3:30:16 PM] Umesh Maliya: change message for document upload for conference
+[5:15:49 PM] Umesh Maliya: Facebook/LinkedIn/twitter/age
+[5:17:38 PM] kaushal patel: لینک فیس بوک
+[5:22:19 PM] kaushal patel: پیوند توییتر
+[5:22:52 PM] kaushal patel: سن
+[5:29:00 PM] Umesh Maliya: FacebookLink  LinkedInLink  TwitterLink
+[6:41:22 PM] Umesh Maliya: http://embedinfosoft.com/secmeet/%d8%ac%d8%b2%d8%a6%db%8c%d8%a7%d8%aa-%d9%85%d8%b4%d8%ae%d8%b5%d8%a7%d8%aa/?id=18
+ Tuesday 05 September 2017
+[11:19:44 AM] Umesh Maliya: https://www.sanwebe.com/2011/01/send-php-mail-with-attachment
+for mail attachment
+[4:33:26 PM] kaushal patel:  $adlogin = session()->get('userdata');
+        if (!isset($adlogin)) {
+            return Redirect::to('/');
+        }
+[4:33:52 PM] kaushal patel: session()->put('userdata' , $sesarray);
+[4:44:06 PM] kaushal patel: return view('login/Login');
+[5:50:13 PM] kaushal patel: session()->flush();
+[5:53:59 PM] kaushal patel: $request->session()->forget('key');
+[5:58:12 PM] Umesh Maliya: Route::get('submitbookforswapafterlogin','ChatController@SubmitBookForSwapAfterLogin');
+[5:58:42 PM] Umesh Maliya: SubmitBookForSwap
+[6:37:16 PM] Umesh Maliya: $swapdata = session()->get('swapdata');
+        if(isset($swapdata)){
+[6:38:21 PM] Umesh Maliya: url('submitbookforswapafterlogin/')
+ Wednesday 06 September 2017
+[9:52:16 AM] Umesh Maliya: (noworries)
+[10:36:30 AM] Umesh Maliya: Hello Vishal! , I would like to swap your Book with one of my collection please visit my collection  "Link to my book collection"
+[10:51:41 AM] Umesh Maliya: register kare etle direct login rhay jay chhe?
+[10:51:56 AM] Umesh Maliya: ok
+[11:30:20 AM] kaushal patel: $adlogin = session()->get('userdata');
+        if (!isset($adlogin)) {
+            return Redirect::to(url('login'));
+            exit;
+        }
+[11:44:56 AM] Umesh Maliya: PostBorrowPaymentWithpaypalAfterLogin
+[11:47:10 AM] kaushal patel: postborrowpaymentwithpaypalafterlogin
+[12:23:05 PM] kaushal patel: borrowpayment
+[3:04:09 PM] kaushal patel: (array('swapdata'=>array('BookId'=>$request->input('BookId'),'SenderId'=>$request->input('SenderId')))
+[3:39:37 PM] Umesh Maliya: @if ($message = Session::get('success1'))
+                <li class="col-sm-12 col-md-12 col-xs-12 booksuss-msg">
+                    <p class="sus" style="color: green;"> {!! $message !!}
+                    <?php Session::forget('success1');?>
+                </li>
+            @endif
+[3:47:24 PM] Umesh Maliya: eventpayment
+[3:48:37 PM] Umesh Maliya: PostEventPaymentWithpaypalAfterLogin
+[4:17:44 PM] Umesh Maliya: use App\model\HomeModel;
+ Thursday 07 September 2017
+[12:13:02 PM] kaushal patel: DB::table('book_master')
+            ->select('*')
+            ->where('BookId','=',$BookId)
+            ->first();
+[12:20:25 PM] kaushal patel: UserSubscription
+[12:21:47 PM] kaushal patel: return DB::table('UserSubscription')
+            ->select('*')
+            ->where('UserId','=',$UserId)
+            ->where('EndDate','>=',date('Y-m-d h:i:s'))
+            ->orderBy('UserSubscriptionId', 'desc')
+            ->first();
+[2:41:57 PM] kaushal patel: SubscribeAmount
+[2:42:37 PM] kaushal patel: setting_master
+[3:11:16 PM] kaushal patel: DB::table('UserSubscription')->insert(array(
+                array("UserID"=>$userid,"StartDate"=>date('Y-m-d'),"EndDate"=>date('Y-m-d', strtotime("+30 days")),"PaymentRef"=>$result->transactions[0]->related_resources[0]->sale->id),
+            ));
+            /*Mail::send('emails.SubscribePayment', ['user' => 'data'], function ($m) use($emailid) {
+                $m->from('test1.igex@gmail.com', 'Kids Book Club');
+                $m->to($emailid)->subject('Subscribe Email');
+            });*/
+[3:59:34 PM] kaushal patel: CreatedBy
+[5:11:22 PM] Umesh Maliya: <input type="hidden" name="suboption" id="suboption" value="Yes">
+[5:21:46 PM] kaushal patel: use App\model\HomeModel;
+$HomeModel = new HomeModel();
+    	$UserId = session()->get('userdata')['UserId'];
+    	$subdata = $HomeModel->Usersubscribe($UserId);
+[5:41:08 PM] Umesh Maliya: var Days1 = ("#popular-book"+pstap1+" #"+frmcl1+" #Days").val();
+    if(Days1!=''){
+        var $toastContent = $('<span>Please enter day.</span>').add($('<button class="btn-flat toast-action">Undo</button>'));
+        Materialize.toast($toastContent, 10000,'red');
+ Saturday 09 September 2017
+[5:55:54 PM] Umesh Maliya: hi
+ Monday 11 September 2017
+[10:55:20 AM] Umesh Maliya: ->orWhere('LOWER(name)', 'LIKE', '%' . strtolower($word) . '%')
+[4:02:57 PM] kaushal patel:  https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/
+[3:16:51 PM] Dhaval Patel: http://sass-lang.com/install
+ Tuesday 12 September 2017
+[12:54:47 PM] kaushal patel: 6f87390e9d9960f0b81c0da21e4a2c6b-us14
+[1:08:59 PM] Umesh Maliya: https://askubuntu.com/questions/259681/the-program-curl-is-currently-not-installed
+[3:05:04 PM] Umesh Maliya: include('my_function.php');
+[4:51:36 PM] Umesh Maliya: https://softqube.wufoo.eu/build/our-contact/
+[4:55:32 PM] kaushal patel: http://192.168.0.2/wordpress/hotelrevenue360/wp-content/themes/hotelrevenue360-child/assets/css/style.css
+[5:02:37 PM] Umesh Maliya: employee/Umesh
+[5:04:33 PM] kaushal patel: Message removed.
+[5:09:30 PM] kaushal patel: Message removed.
+[5:17:04 PM] kaushal patel: .wufoo label.desc, .wufoo legend.desc
+[5:21:56 PM] kaushal patel: html.firefox body#public.noI div#container.ltr form#form1.wufoo.topLabel.page1 ul li#fo1li8.notranslate label#title8.desc
+[5:47:42 PM] Umesh Maliya: http://www.igexsolutions.com/wp-content/themes/igexsolutions-child/assets/css/style.css
+ Wednesday 13 September 2017
+[10:48:56 AM] Umesh Maliya: http://hotelrevenue360.embedinfosoft.com/
+[12:05:49 PM] kaushal patel: $terms = wp_get_object_terms( $post->ID, 'blog_category' );
+[12:19:46 PM] kaushal patel: <?php preg_match_all('/([\d]+)/',esc_attr( get_option('phone') ), $match); $match1=''; foreach($match[0] as $val){ $match1 = $match1.$val; } echo $match1; ?>
+[5:22:03 PM] Umesh Maliya: thukeslo
+[6:01:48 PM] Umesh Maliya: The Digital PRESENCE Cloud
+Services We Offering
+[6:07:30 PM] kaushal patel: 'tax_query' => array(
+                                    array(
+                                        'taxonomy' => 'breand_category',
+                                        'field' => 'slug',
+                                        'terms' => $post->post_name,
+                                    )
+                                )
+[6:13:03 PM] kaushal patel: services_texonomies
+ Thursday 14 September 2017
+[10:46:11 AM] kaushal patel: http://192.168.0.2/html/kidsbookclub/api/getcategorybyid/Popular-Book
+ Friday 15 September 2017
+[5:20:21 PM] Umesh Maliya: for menu and submenu
+<?php
+            $menu_name = 'header-menu';
+            $locations = get_nav_menu_locations();
+            $menu = wp_get_nav_menu_object( $menu_name );
+            $menuitems = wp_get_nav_menu_items( $menu->term_id, array( 'order' => 'DESC' ) );
+            $submenu1 = array();
+            $menu1 = array();
+            foreach ($menuitems as $key => $value1) {
+                if($value1->menu_item_parent==0)
+                    $menu1[] = $value1;
+                else
+                    $submenu1[$value1->menu_item_parent][] = $value1;
+            }
+            ?>
+[5:34:44 PM] Umesh Maliya: https://maliyaumeshl.wordpress.com/2017/09/15/wordpress-menu-and-submenu/
+[6:54:21 PM] kaushal patel: if( have_rows('brand_name',$post->ID) ){ 
+                                while( have_rows('brand_name',$post->ID) ){ the_row();
+                                $brandname= strtolower(get_sub_field('brandname'));
+[6:58:03 PM] Umesh Maliya: http://192.168.0.2/wordpress/hotelrevenue360/company/about-us/
+ Monday 18 September 2017
+[11:11:00 AM] Umesh Maliya: https://vuejs.org/v2/examples/tree-view.html
+[11:31:20 AM] Umesh Maliya: jQuery("#inputString").keyup(function () {
+    var filter = jQuery(this).val();
+    jQuery("ul li").each(function () {
+        if (jQuery(this).text().search(new RegExp(filter, "i")) < 0) {
+            jQuery(this).hide();
+        } else {
+            jQuery(this).show()
+        }
+    });
+});
+[11:33:41 AM] Umesh Maliya: serch from ul li
+[2:22:31 PM] Umesh Maliya: active mate joye chhe
+[2:23:53 PM] kaushal patel: <?php $currebt_url = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; ?>
+[3:41:17 PM] Umesh Maliya: wordpress-custome-menu
+[3:42:32 PM] Umesh Maliya: https://github.com/umeshmaliya/wordpress-custome-menu
